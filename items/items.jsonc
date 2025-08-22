@@ -1,9 +1,86 @@
 [
     {
-        "name": "Club",
+        "name": "Stun Club",
         "type": "toggle",
         "img": "images/items/Ae3clubsprite1.png",
         "codes": "Club"
+    },
+    {
+        "name": "R.C. Car",
+        "type": "toggle",
+        "img": "images/items/Ae3carsprite1.png",
+        "codes": "Car"
+    },
+    {
+        "name": "Sky Flyer",
+        "type": "toggle",
+        "img": "images/items/Ae3flysprite1.png",
+        "codes": "Fly"
+    },
+    {
+        "name": "Super Hoop",
+        "type": "toggle",
+        "img": "images/items/Ae3hoopsprite.png",
+        "codes": "Hoop"
+    },
+    {
+        "name": "Time Net",
+        "type": "toggle",
+        "img": "images/items/Ae3netsprite.png",
+        "codes": "Net"
+    },
+    {
+        "name": "Monkey Radar",
+        "type": "toggle",
+        "img": "images/items/Ae3radarsprite.png",
+        "codes": "Radar"
+    },
+    {
+        "name": "Slingback Shooter",
+        "type": "toggle",
+        "img": "images/items/Ae3shotsprite.png",
+        "codes": "Shot"
+    },
+    {
+        "name": "Water Net",
+        "type": "toggle",
+        "img": "images/items/Ae3watersprite.png",
+        "codes": "Water"
+    },
+    {
+        "name": "Fantasy Knight",
+        "type": "toggle",
+        "img": "images/items/Keisprite1.png",
+        "codes": "Knight"
+    },    {
+        "name": "Wild West Kid",
+        "type": "toggle",
+        "img": "images/items/Keisprite2.png",
+        "codes": "Wild"
+    },    {
+        "name": "Miracle Ninja",
+        "type": "toggle",
+        "img": "images/items/Keisprite3.png",
+        "codes": "Ninja"
+    },    {
+        "name": "Genie Dancer",
+        "type": "toggle",
+        "img": "images/items/Keisprite4.png",
+        "codes": "Dancer"
+    },    {
+        "name": "Dragon Kung Fu Fighter",
+        "type": "toggle",
+        "img": "images/items/Keisprite5.png",
+        "codes": "Fighter"
+    },    {
+        "name": "Cyber Ace",
+        "type": "toggle",
+        "img": "images/items/Keisprite6.png",
+        "codes": "Ace"
+    },    {
+        "name": "Super Monkey",
+        "type": "toggle",
+        "img": "images/items/Keisprite7.png",
+        "codes": "Monkey"
     }
-
 ]

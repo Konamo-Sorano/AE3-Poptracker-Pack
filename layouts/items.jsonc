@@ -17,10 +17,22 @@
             "h_alignment": "left",
             "rows": [
               [
-                "Club"
+                "Club",
+                "Car",
+                "Fly",
+                "Hoop",
+                "Net",
+                "Radar",
+                "shot"
               ],
               [
-                "Club"
+                "Knight",
+                "Wild",
+                "Ninja",
+                "Dancer",
+                "Fighter",
+                "Ace",
+                "Monkey"
               ]
             ]
           }
