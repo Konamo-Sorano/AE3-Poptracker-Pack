@@ -32,7 +32,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "map1"
+                  "all locations"
                 ]
               }
             },
@@ -83,7 +83,7 @@
               "content": {
                 "type": "map",
                 "maps": [
-                  "map1"
+                  "all locations"
                 ]
               }
             },
