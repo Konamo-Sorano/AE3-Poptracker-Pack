@@ -46,7 +46,7 @@
         ],
         "map_locations": [
           {
-            "map": "map1",
+            "map": "all locations",
             "x": 1500,
             "y": 400
           }
