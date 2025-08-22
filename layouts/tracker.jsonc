@@ -28,7 +28,7 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "All locations",
               "content": {
                 "type": "map",
                 "maps": [
@@ -79,7 +79,7 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "All locations",
               "content": {
                 "type": "map",
                 "maps": [
