@@ -3,31 +3,31 @@
         "name": "Stun Club",
         "type": "toggle",
         "img": "images/items/Ae3clubsprite1.png",
-        "codes": "Club"
+        "codes": "Club, Attack, Hit"
     },
     {
         "name": "R.C. Car",
         "type": "toggle",
         "img": "images/items/Ae3carsprite1.png",
-        "codes": "Car"
+        "codes": "Car, Hit"
     },
     {
         "name": "Sky Flyer",
         "type": "toggle",
         "img": "images/items/Ae3flysprite1.png",
-        "codes": "Fly"
+        "codes": "Flyer, Glide"
     },
     {
         "name": "Super Hoop",
         "type": "toggle",
         "img": "images/items/Ae3hoopsprite.png",
-        "codes": "Hoop"
+        "codes": "Hoop, Hit, Dash"
     },
     {
         "name": "Time Net",
         "type": "toggle",
         "img": "images/items/Ae3netsprite.png",
-        "codes": "Net"
+        "codes": "Net, Catch"
     },
     {
         "name": "Monkey Radar",
@@ -39,48 +39,48 @@
         "name": "Slingback Shooter",
         "type": "toggle",
         "img": "images/items/Ae3shotsprite.png",
-        "codes": "Shot"
+        "codes": "Shot, Attack, Hit, Shoot"
     },
     {
         "name": "Water Net",
         "type": "toggle",
         "img": "images/items/Ae3watersprite.png",
-        "codes": "Water"
+        "codes": "Swim"
     },
     {
         "name": "Fantasy Knight",
         "type": "toggle",
         "img": "images/items/Keisprite1.png",
-        "codes": "Knight"
+        "codes": "Knight, Catch, Morph, Morph_No_Monkey, Attack, Hit"
     },    {
         "name": "Wild West Kid",
         "type": "toggle",
         "img": "images/items/Keisprite2.png",
-        "codes": "Wild"
+        "codes": "Wild, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Shoot, Hit"
     },    {
         "name": "Miracle Ninja",
         "type": "toggle",
         "img": "images/items/Keisprite3.png",
-        "codes": "Ninja"
+        "codes": "Ninja, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Hit, Fly, Glide"
     },    {
         "name": "Genie Dancer",
         "type": "toggle",
         "img": "images/items/Keisprite4.png",
-        "codes": "Dancer"
+        "codes": "Dancer, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Hit"
     },    {
         "name": "Dragon Kung Fu Fighter",
         "type": "toggle",
         "img": "images/items/Keisprite5.png",
-        "codes": "Fighter"
+        "codes": "Fighter, Catch, Morph, Morph_No_Monkey, Attack, Hit"
     },    {
         "name": "Cyber Ace",
         "type": "toggle",
         "img": "images/items/Keisprite6.png",
-        "codes": "Ace"
+        "codes": "Ace, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Shoot, Hit, Glide"
     },    {
         "name": "Super Monkey",
         "type": "toggle",
         "img": "images/items/Keisprite7.png",
-        "codes": "Monkey"
+        "codes": "Monkey, Morph"
     }
 ]
