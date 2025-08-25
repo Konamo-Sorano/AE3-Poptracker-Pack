@@ -35,15 +35,6 @@
                   "all locations"
                 ]
               }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
-                ]
-              }
             }
           ]
         }
@@ -84,15 +75,6 @@
                 "type": "map",
                 "maps": [
                   "all locations"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
                 ]
               }
             }
