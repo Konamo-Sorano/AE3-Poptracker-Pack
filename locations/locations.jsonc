@@ -3,37 +3,8 @@
     "name": "Example Parent",
     "children": [
       {
-        "name": "Example Location 1",
-        "access_rules": [
-          //read as: progressive_2 or toggle
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "Example Section 1",
-            "item_count": 1
-          },
-          {
-            "name": "Example Section 2",
-            "item_count": 3
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "all locations",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
-          }
-        ]
-      },
-      {
         "name": "Ukki Pan - TV Station",
+        "chest_unopened_img": "/images/items/Monkey.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "progressive_toggle_2, $has_more_then_n_consumable|4"
@@ -47,8 +18,2263 @@
         "map_locations": [
           {
             "map": "all locations",
-            "x": 800,
-            "y": 320
+            "x": 655,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Seaside Resort",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Nessal - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Pia - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Sarubo - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Salurin - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkitan - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Morella - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ben - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Kankichi - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Tomezo - Seaside Resortt",
+            "item_count": 1
+          },
+          {
+            "name": "Kamayan - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Taizo - Seaside Resort",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 70
+          }
+        ]
+      },
+            {
+        "name": "Hide-n-Seek Forest",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Pon - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkian - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Red - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Rosalin - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Salubon - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Wolfmon - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Ukiko - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Lambymon - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Kreemon - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkilei - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Spork - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "King Goat - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Marukichi - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Kikimon - Hide-n-Seek Forest",
+            "item_count": 1
+          },
+          {
+            "name": "Kominato - Hide-n-Seek Forest",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Saru-mon's Castle",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukkido - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Guard - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkinee - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monderella - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki-ichi - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Saru-mon - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monga - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkiton - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "King Leo - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkii - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Saluto - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "King's Double - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Mattsun - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Miya - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Mon San - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "SAL-1000 - Saru-mon's Castle",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "The Big City",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukima - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Monbolo - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Mondy - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mattan - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Bemucho - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Nader - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Sabu-Sabu - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ginjiro - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Kichiemon - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkilun - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Bully-mon - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Joe - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Tamaki - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Mickey Oou - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Sally Kokoroe - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Monkey Manager - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Supervisor Chimp - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Boss Ape - The Big City",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Specter TV Studio",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Yan - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkipuss - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Minoh - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Monta - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Pipopam - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Monpii Ukkichi - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Gabimon - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Bananamon - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Mokinza - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Lee Ukki - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkida Jiro - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Sal Ukindo - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Chippino - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Gimminey - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Hant - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Paul - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Sally Mon - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Bonly - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Monly - Specter TV Studio",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "Bootown",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Monkichiro - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Leomon - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Uikkun - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Take Ukita - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Bonbon - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "ChiChi - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkisuke - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Chibi Sally - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkison - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Saruhotep - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkito - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Monzally - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkiami - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Monjan - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Nattchan - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Kabochin - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mon - Bootown",
+            "item_count": 1
+          },
+          {
+            "name": "Mumpkin - Bootown",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 670
+          }
+        ]
+      },
+      {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Morrey - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Jomi - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Tammy - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Gigolo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Monboron - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "West Ukki - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Lucky Woo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Pamela - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Monber - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Gaukichi - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Shaluron - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Jay Mohn - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Monkee Joe - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Saru Chison - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Jaja Jamo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Chammy Mo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Golozo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Golon Moe - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkia Munbo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Mon Johny - Wild West Town",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 810
+          }
+        ]
+      },
+      {
+        "name": "The Hot Springs",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Chabimon - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ichiro - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Kiichiro - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Saru Sam - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Michiyan - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Tome-san - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki-emon - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Moki - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Ukimi - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Domobeh - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Sam-san - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Donkichi - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Minokichi - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Tatabo - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Michiro - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Gen-san - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Kimisan - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Mujakin - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Mihachin - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Fuji-chan - The Hot Springs",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Winterville",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Kimisuke - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Konzo - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Saburota - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Mitsuro - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Takuo - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Konkichi - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Fumikichi - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Pipotron Yellow - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Tamubeh - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Kimikichi - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Gonbeh - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Shimmy - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Mako - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Miko - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Tamio - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Jeitan - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Jii - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Akki-bon - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Kimi-chan - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Sae-chan - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Tassan - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Tomokun - Winterville",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "The Emperor's Castle",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Pipo Tobi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Masan - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Mohachi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Mon Ninpo - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Yosi - The Emperor's Castleo",
+            "item_count": 1
+          },
+          {
+            "name": "Fatty Mcfats - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Tomoku-chan - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Kikimaru - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Uziko - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "GP - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Walter - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monkibeth - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Babuzo - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Fishy Feet - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Torin - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Tomi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Master Pan - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monchin Chi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Masachi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Golota - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Kinsuke - The Emperor's Castle",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Mount Amazing",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukkichi - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Chomon - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkido - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Kyamio - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Talupon - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Bokitan - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Tami - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Micchino - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Talurin - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Occhimon - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Mikkurin - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Kicchino - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Kimurin - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Sakkano - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Camino - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Valuccha - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Pisuke - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Kansuke - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Pohta - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Keisuke - Mount Amazing",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Toytown",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Pikkori - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "TalUkki - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Pinkino - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Mota - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Verna - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Papa - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Mama - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Kalkin - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Pakun - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki X - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Mon Gareji - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Shouji - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Woo Makka - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Monto - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Mokitani - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Namigo - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Piptron Red - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Master Loafy - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Golonero - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Kocho - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Tam Konta - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Tam Mimiko - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Tam Papa - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Tam Mama - Toytown",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "Artic Wonderland",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Bikupuri - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkisu - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ami - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Balio - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kimkon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkina - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kushachin - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Malikko - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Bolikko - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Iceymon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Mokkidon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Jolly-mon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Hikkori - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Rammy - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Monkino - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kyam - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kappino - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kris Krimon - Arctic Wonderland",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 670
+          }
+        ]
+      },
+      {
+        "name": "Mirage Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Scorpi-mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Minimon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Moontero - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Son - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Jeff - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Saru Maru - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Genghis Mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Cup-o-mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Nijal - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Apey Jones - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Golden Mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mamba - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Crazy 'ol Mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Shamila - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Tamiyanya - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Salteenz - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Dancing Mia - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Miccho - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Kisha - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Gimuccho - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Wojin - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Princess Judy - Mirage Town",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 810
+          }
+        ]
+      },
+      {
+        "name": "Eversummer Island",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Pincher-mon - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Salumani - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Salulu - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Baku - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mat - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Salunch - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Mong Popo - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Mohcha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Kamcha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Bimocha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gimchin - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Kamaccha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gyamu - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Tartan - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Takumon - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ether - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Molzone - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Chappio - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Pomoah - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gucchai - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Makaccho - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gamaran - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Larry - Eversummer Island",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Airplane Squadron",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Romo - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Temko - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkigawa - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Mokkido - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Pont - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Gamish - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Takmon - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Mukita - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Prince Bertus - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Chai Bunny - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Tamrai - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Pipotron Blue - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Kemunpa - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Mabaras - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Tamoos - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Kimoto - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Octavian - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Samuel - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Coril - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Bont - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Delly - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Jeloh - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Bongo - Airplane Squadron",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Kung-Fu Alley",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Nak Nayo - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Donto Koi - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Po Kin Ki - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Dally - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Shinchi - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Doh Tsuitaro - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Chan - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Uki Uki - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Muki Muki - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Hi Uchi Ishi - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Bassili Ukki - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Pikon - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Bankan - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Sukei - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Giyan - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Danchi - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Gala Waruo - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Muchaki - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Yoh Kitana - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Goshi Andos - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Pukuman - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Block Master - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Tompo - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Wootan - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Chechin - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Hapcho - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Bonmos - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Dark Master - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Teh Isu - Kung-Fu Alley",
+            "item_count": 1
+          },
+          {
+            "name": "Ponja - Kung-Fu Alley",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 310
+          }
+        ]
+      },
+      {
+        "name": "Midnight Bay",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Nadamon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Patoya - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gumbo - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pehyan - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Mokito - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Kate - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Samtan - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pokkine - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Daban - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Keiichi - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "McBreezy - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Shiny Pete - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Landon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Ronson - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gimo - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Hiroshi - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Mibon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Bololon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Nakabi - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Doemos - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Kazuo - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gimi Gimi - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pokkini - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Bokino - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Jimo - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Makidon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Dogy - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gibdon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Buligie - Midnight Bay",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Tomoki City",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Kichibeh - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Bonchicchi - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Mikibon - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "DJ Tamo - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkinaka - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkine - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Pon Jiro - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Chimpy - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Kajitan - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Uka Uka - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Mil Mil - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Taimon - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Goro-san - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Reiji - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ponta - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Tomio - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Gario - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Mitsuo - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "DJ Pari - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Ron - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Mikita - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Riley - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "SAL-13 - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "SAL-12 - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Tomu - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Breadacus - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkigoro - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukiji - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Tomimon - Tomoki City",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "Space-TV Fortress",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Poko - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Gamuo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Mukikko - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Moto Ukki - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Jimi Jami - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Genbo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Twin Mitty - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Uttey - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Emma - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Dokicchi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Kamicchi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Monda - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Porokko - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Zonelin - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Tamano - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Nelson - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Koloneh - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Miluchy - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Robert - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Fronson - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Demekin - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Kikuyoshi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Freet - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Chico - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Gamurin - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Mon - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Gam Gam - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Doronbo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Benja - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Macchan - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Rokkun - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Love - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Momongo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Moepi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Pumon - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Makiban - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Upis - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Mondatta - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Gicchom - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Barire - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "SAL-10 - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "SAL-11 - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "SAL-3000 - Space-TV Fortress",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 670
+          }
+        ]
+      },
+      {
+        "name": "Monkey White Fight!",
+        "chest_unopened_img": "/images/items/White Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Monkey White",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1170,
+            "y": 70
+          }
+        ]
+      },
+      {
+        "name": "Monkey Blue Fight!",
+        "chest_unopened_img": "/images/items/Blue Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Blue",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1170,
+            "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Monkey Yellow Fight!",
+        "chest_unopened_img": "/images/items/Yellow Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Yellow",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1170,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Monkey Pink Fight!",
+        "chest_unopened_img": "/images/items/Pink Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Pink",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1170,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Monkey Red Fight!",
+        "chest_unopened_img": "/images/items/Red Monkey.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Red",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1170,
+            "y": 650
+          }
+        ]
+      },
+      {
+        "name": "Dr. Tomoki Fight!",
+        "chest_unopened_img": "/images/items/Doctor Tomoki.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Dr. Tomoki",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1170,
+            "y": 760
+          }
+        ]
+      },
+      {
+        "name": "Specter Fight!",
+        "chest_unopened_img": "/images/items/Specter.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Specter",
+            "item_count": 1
+          },
+          {
+            "name": "Specter Finale",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 1050,
+            "y": 70
           }
         ]
       }
