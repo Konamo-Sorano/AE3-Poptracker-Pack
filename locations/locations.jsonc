@@ -21,7 +21,7 @@
         ],
         "map_locations": [
           {
-            "map": "map1",
+            "map": "all locations",
             "x": 1750,
             "y": 700
           },
@@ -33,22 +33,22 @@
         ]
       },
       {
-        "name": "Example Location 2",
+        "name": "Ukki Pan - TV Station",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Monkey",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
             "map": "all locations",
-            "x": 1500,
-            "y": 400
+            "x": 800,
+            "y": 320
           }
         ]
       }
