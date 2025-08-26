@@ -14,7 +14,7 @@
   "target_poptracker_version": "0.32.0",
   "variants": {
     "standard": {
-      "display_name": "simple tracker",
+      "display_name": "Simple tracker",
       "flags": [
         // enables AP autotracking interface - remove if not needed
         "ap"
