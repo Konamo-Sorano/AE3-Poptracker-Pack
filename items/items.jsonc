@@ -15,7 +15,7 @@
         "name": "Sky Flyer",
         "type": "toggle",
         "img": "images/items/Ae3flysprite1.png",
-        "codes": "Flyer, Glide"
+        "codes": "Flyer, Glide, Fly"
     },
     {
         "name": "Super Hoop",

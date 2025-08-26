@@ -3,11 +3,21 @@
 -- here are the SM items as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/item_mapping.lua
 BASE_ITEM_ID = 0
 ITEM_MAPPING = {
-	[BASE_ITEM_ID + 00000] = { { "toggle" } },
-	[BASE_ITEM_ID + 00001] = { { "progressive" } },
-	[BASE_ITEM_ID + 00002] = { { "consumable" } },
-	-- handle progressive_toggle as toggle, only changing it's active state
-	[BASE_ITEM_ID + 00003] = { { "progressive_toggle", "toggle" } },
-	-- multiple items on this id, add the consumable 3 times
-	[BASE_ITEM_ID + 00004] = { { "toggle" }, { "consumable", nil, 3 } }
+    [6592888] = { { "Swim", "toggle" } },
+    [6592848] = { { "Club", "toggle" } },
+	[6592852] = { { "Net", "toggle" } },
+	[6592856] = { { "Radar", "toggle" } },
+	[6592860] = { { "Hoop", "toggle" } },
+	[6592864] = { { "Shot", "toggle" } },
+	[6592868] = { { "Car", "toggle" } },
+	[6592872] = { { "Flyer", "toggle" } },
+	[6592816] = { { "Knight", "toggle" } },
+	[6592820] = { { "Wild", "toggle" } },
+	[6592824] = { { "Ninja", "toggle" } },
+	[6592828] = { { "Dancer", "toggle" } },
+	[6592832] = { { "Fighter", "toggle" } },
+	[6592836] = { { "Ace", "toggle" } },
+	[6592840] = { { "Monkey", "toggle" } },
+	[1000] = { { "Channel_Key", "toggle" } },
+	[6592920] = { { "Explosive_Pallet", "toggle" } },	
 }
