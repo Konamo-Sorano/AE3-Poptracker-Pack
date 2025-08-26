@@ -11,9 +11,15 @@ there is plans to improve this to some extent but don't expect much out of me
 I barely know what I am doing here
 ## Todo list
 Add camera sanity
+
 Add settings
+
 Track the amount of channel keys you have
+
 Make the tracker know if you have the stage or not
+
 Put logic for the secret rooms to require Super Monkey Morph
+
 Add more maps
+
 Clean the code (probably won't do this because GOD THIS THING IS A MESS)
