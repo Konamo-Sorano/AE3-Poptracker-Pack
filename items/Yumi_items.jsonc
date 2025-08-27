@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Stun Club",
+        "type": "toggle",
+        "img": "images/items/Ae3clubsprite2.png",
+        "codes": "Club, Yumi Club, Attack, Hit"
+    },
+    {
+        "name": "R.C. Car",
+        "type": "toggle",
+        "img": "images/items/Ae3carsprite2.png",
+        "codes": "Car, Yumi Car, Hit"
+    },
+    {
+        "name": "Sky Flyer",
+        "type": "toggle",
+        "img": "images/items/Ae3flysprite2.png",
+        "codes": "Flyer, Yumi Flyer, Glide, Fly"
+    },
+    {
+        "name": "Super Hoop",
+        "type": "toggle",
+        "img": "images/items/Ae3hoopsprite.png",
+        "codes": "Hoop, Hit, Dash"
+    },
+    {
+        "name": "Time Net",
+        "type": "toggle",
+        "img": "images/items/Ae3netsprite.png",
+        "codes": "Net, Catch"
+    },
+    {
+        "name": "Monkey Radar",
+        "type": "toggle",
+        "img": "images/items/Ae3radarsprite.png",
+        "codes": "Radar"
+    },
+    {
+        "name": "Slingback Shooter",
+        "type": "toggle",
+        "img": "images/items/Ae3shotsprite.png",
+        "codes": "Shot, Attack, Hit, Shoot"
+    },
+    {
+        "name": "Water Net",
+        "type": "toggle",
+        "img": "images/items/Ae3watersprite.png",
+        "codes": "Swim"
+    },
+    {
+        "name": "Fantasy Knight",
+        "type": "toggle",
+        "img": "images/items/Yumisprite1.png",
+        "codes": "Knight, Yumi Knight, Catch, Morph, Morph_No_Monkey, Attack, Hit"
+    },    
+    {
+        "name": "Wild West Kid",
+        "type": "toggle",
+        "img": "images/items/Yumisprite2.png",
+        "codes": "Wild, Yumi Wild, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Shoot, Hit"
+    },    
+    {
+        "name": "Miracle Ninja",
+        "type": "toggle",
+        "img": "images/items/Yumisprite3.png",
+        "codes": "Ninja, Yumi Ninja, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Hit, Fly, Glide"
+    },    
+    {
+        "name": "Genie Dancer",
+        "type": "toggle",
+        "img": "images/items/Yumisprite4.png",
+        "codes": "Dancer, Yumi Dancer, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Hit"
+    },    
+    {
+        "name": "Dragon Kung Fu Fighter",
+        "type": "toggle",
+        "img": "images/items/Yumisprite5.png",
+        "codes": "Fighter, Yumi Fighter, Catch, Morph, Morph_No_Monkey, Attack, Hit"
+    },    
+    {
+        "name": "Cyber Ace",
+        "type": "toggle",
+        "img": "images/items/Yumisprite6.png",
+        "codes": "Ace, Yumi Ace, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Shoot, Hit, Glide"
+    },    
+    {
+        "name": "Super Monkey",
+        "type": "toggle",
+        "img": "images/items/Keisprite7.png",
+        "codes": "Monkey, Morph, Yumi Monkey"
+    }
+]

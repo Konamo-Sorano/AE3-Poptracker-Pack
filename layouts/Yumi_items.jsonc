@@ -17,9 +17,9 @@
             "h_alignment": "left",
             "rows": [
               [
-                "Kei Club",
-                "Kei Car",
-                "Kei Flyer",
+                "Yumi Club",
+                "Yumi Car",
+                "Yumi Flyer",
                 "Hoop",
                 "Net",
                 "Radar",
@@ -27,33 +27,18 @@
                 "Swim"
               ],
               [
-                "Kei Knight",
-                "Kei Wild",
-                "Kei Ninja",
-                "Kei Dancer",
-                "Kei Fighter",
-                "Kei Ace",
-                "Kei Monkey"
+                "Yumi Knight",
+                "Yumi Wild",
+                "Yumi Ninja",
+                "Yumi Dancer",
+                "Yumi Fighter",
+                "Yumi Ace",
+                "Yumi Monkey"
               ]
             ]
           }
         ]
       }
     ]
-  },
-  "settings_popup": {
-		"type": "array",
-		"orientation": "horizontal",
-		"content": [
-			{
-				"type": "itemgrid",
-        "item_margin": "10, 10",
-        "item_size": 100,
-        "h_alignment": "left",
-        "rows": [
-          ["Player"]
-				]
-			}
-		]
-	}
+  }
 }

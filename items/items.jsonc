@@ -3,19 +3,19 @@
         "name": "Stun Club",
         "type": "toggle",
         "img": "images/items/Ae3clubsprite1.png",
-        "codes": "Club, Attack, Hit"
+        "codes": "Club, Kei Club, Attack, Hit"
     },
     {
         "name": "R.C. Car",
         "type": "toggle",
         "img": "images/items/Ae3carsprite1.png",
-        "codes": "Car, Hit"
+        "codes": "Car, Kei Car, Hit"
     },
     {
         "name": "Sky Flyer",
         "type": "toggle",
         "img": "images/items/Ae3flysprite1.png",
-        "codes": "Flyer, Glide, Fly"
+        "codes": "Flyer, Kei Flyer, Glide, Fly"
     },
     {
         "name": "Super Hoop",
@@ -51,54 +51,62 @@
         "name": "Fantasy Knight",
         "type": "toggle",
         "img": "images/items/Keisprite1.png",
-        "codes": "Knight, Catch, Morph, Morph_No_Monkey, Attack, Hit"
+        "codes": "Knight, Kei Knight, Catch, Morph, Morph_No_Monkey, Attack, Hit"
     },    
     {
         "name": "Wild West Kid",
         "type": "toggle",
         "img": "images/items/Keisprite2.png",
-        "codes": "Wild, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Shoot, Hit"
+        "codes": "Wild, Kei Wild, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Shoot, Hit"
     },    
     {
         "name": "Miracle Ninja",
         "type": "toggle",
         "img": "images/items/Keisprite3.png",
-        "codes": "Ninja, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Hit, Fly, Glide"
+        "codes": "Ninja, Kei Ninja, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Hit, Fly, Glide"
     },    
     {
         "name": "Genie Dancer",
         "type": "toggle",
         "img": "images/items/Keisprite4.png",
-        "codes": "Dancer, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Hit"
+        "codes": "Dancer, Kei Dancer, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Hit"
     },    
     {
         "name": "Dragon Kung Fu Fighter",
         "type": "toggle",
         "img": "images/items/Keisprite5.png",
-        "codes": "Fighter, Catch, Morph, Morph_No_Monkey, Attack, Hit"
+        "codes": "Fighter, Kei Fighter, Catch, Morph, Morph_No_Monkey, Attack, Hit"
     },    
     {
         "name": "Cyber Ace",
         "type": "toggle",
         "img": "images/items/Keisprite6.png",
-        "codes": "Ace, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Shoot, Hit, Glide"
+        "codes": "Ace, Kei Ace, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Shoot, Hit, Glide"
     },    
     {
         "name": "Super Monkey",
         "type": "toggle",
         "img": "images/items/Keisprite7.png",
-        "codes": "Monkey, Morph"
+        "codes": "Monkey, Morph, Kei Monkey"
     },
     {
-        "name": "Kei",
-        "type": "toggle",
-        "img": "images/items/Kei.png",
-        "codes": "Kei"
-    },
-    {
-        "name": "Yumi",
-        "type": "toggle",
-        "img": "images/items/Yumi.png",
-        "codes": "Yumi"
+        "name": "Player",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Kei",
+                "type": "toggle",
+                "img": "images/items/Kei.png",
+                "codes": "Kei, Player"
+            },
+            {
+                "name": "Yumi",
+                "type": "toggle",
+                "img": "images/items/Yumi.png",
+                "codes": "Yumi, Player"
+            }
+        ]
     }
 ]
