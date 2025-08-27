@@ -5,6 +5,7 @@
       {
         "name": "Ukki Pan - TV Station",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           "Net"
         ],
@@ -25,6 +26,7 @@
       {
         "name": "Seaside Resort",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           "Net"
         ],
@@ -75,6 +77,36 @@
           {
             "name": "Taizo - Seaside Resort",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Seaside Resort",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Cellphones and Gadgets Tutorials\" - Seaside Resort",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Cookies Tutorial\" - Seaside Resort",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Switches Tutorial\" - Seaside Resort",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Pipo Camera Tutorial\" - Seaside Resort",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -85,9 +117,10 @@
           }
         ]
       },
-            {
+      {
         "name": "Hide-n-Seek Forest",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           "Net"
         ],
@@ -160,6 +193,42 @@
           {
             "name": "Kominato - Hide-n-Seek Forest",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Hide-n-Seek Forest",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Jump Tutorial\" - Hide-n-Seek Forest",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Assigning Gadgets and Monkey Radar Reminder\" - Hide-n-Seek Forest",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Double-Jump Tutorial\" - Hide-n-Seek Forest",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Pipo Camera Tutorial - Redux\" - Hide-n-Seek Forest",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Jacket Tutorial\" - Hide-n-Seek Forest",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -173,6 +242,7 @@
       {
         "name": "Saru-mon's Castle",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -253,6 +323,36 @@
               "Attack", "Hit"
             ],
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Block Shoving Tutorial\" - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Morph Energy Tutorial\" - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Morph Jumping Reminder\" - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"How can we avoid the flames?\" - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -266,6 +366,7 @@
       {
         "name": "The Big City",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -348,6 +449,24 @@
           {
             "name": "Boss Ape - The Big City",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - The Big City",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Super Hoop Reminder\" - The Big City",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Sports Car Tutorial\" - The Big City",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -361,6 +480,7 @@
       {
         "name": "Specter TV Studio",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -450,6 +570,30 @@
           {
             "name": "Monly - Specter TV Studio",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Black Pants Monkeys Tutorial\" - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Slingback Shooter Reminder\" - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Robot Tutorial\" - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -463,6 +607,7 @@
       {
         "name": "Bootown",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -563,6 +708,36 @@
               "Attack", "Hit"
             ],
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Morph Energy Tutorial - Racking Up Duration\" - Bootown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Water Net Reminder\" - Bootown",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Morph Gauge and Water Tutorial\" - Bootown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Climbing Tutorial\" - Bootown",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -576,6 +751,7 @@
       {
         "name": "Wild West Town",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -675,6 +851,30 @@
           {
             "name": "Mon Johny - Wild West Town",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Bootown",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Wild West Kid Reminder\" - Wild West Town",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Quick Morph Tutorial\" - Wild West Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Rotating Handle Tutorial - Ranged Activation\" - Wild West Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -688,6 +888,7 @@
       {
         "name": "The Hot Springs",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -787,6 +988,30 @@
               "Shoot", "Ninja"
             ],
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Wild West Town",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"RC Car Reminder\" - The Hot Springs",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Red Pants Monkeys Tutorial\" - The Hot Springs",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Boat Tutorial\" - The Hot Springs",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -800,6 +1025,7 @@
       {
         "name": "Winterville",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -907,6 +1133,18 @@
           {
             "name": "Tomokun - Winterville",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - The Hot Springs",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Tank Tutorial\" - Winterville",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -920,6 +1158,7 @@
       {
         "name": "The Emperor's Castle",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1023,6 +1262,36 @@
           {
             "name": "Kinsuke - The Emperor's Castle",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Miracle Ninja Reminder\" - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Walking on Tightropes\" - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone\"What does the Insignia mean?\" - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Tiptoe Tutorial\" - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1036,6 +1305,7 @@
       {
         "name": "Mount Amazing",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1138,6 +1408,18 @@
           {
             "name": "Keisuke - Mount Amazing",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Mount Amazing",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Sky Flyer Reminder\" - Mount Amazing",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1151,6 +1433,7 @@
       {
         "name": "Toytown",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1263,6 +1546,24 @@
           {
             "name": "Tam Mama - Toytown",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Toytown",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Sports Car Tutorial - Redux\" - Toytown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Robot Tutorial - Redux\" - Toytown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1276,6 +1577,7 @@
       {
         "name": "Artic Wonderland",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1364,6 +1666,24 @@
           {
             "name": "Kris Krimon - Arctic Wonderland",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Arctic Wonderland",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Freezing Water Tutorial\" - Arctic Wonderland",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Boat Tutorial - Redux\" - Arctic Wonderland",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1377,6 +1697,7 @@
       {
         "name": "Mirage Town",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1475,6 +1796,36 @@
           {
             "name": "Princess Judy - Mirage Town",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Mirage Town",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Genie Dancer Reminder\" - Mirage Town",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Genie Dancer Reminder - Special Ability\" - Mirage Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Long Horizontal Rods Tutorial\" - Mirage Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Jars that only the Genie can enter\" - Mirage Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1488,6 +1839,7 @@
       {
         "name": "Eversummer Island",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1596,6 +1948,24 @@
           {
             "name": "Larry - Eversummer Island",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Eversummer Island",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Gadget Fetch and Spinning Air Attack Tutorial\" - Eversummer Island",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Water Net Reminder - Redux\" - Eversummer Island",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1609,6 +1979,7 @@
       {
         "name": "Airplane Squadron",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1720,6 +2091,18 @@
               "Attack", "Hit"
             ],
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Airplane Squadron",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Tank Tutorial - Redux\" - Airplane Squadron",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1733,6 +2116,7 @@
       {
         "name": "Kung-Fu Alley",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -1875,6 +2259,36 @@
           {
             "name": "Ponja - Kung-Fu Alley",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Kung-Fu Alley",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Dragon Kung-Fu Fighter Reminder\" - Kung-Fu Alley",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Finding the Way Forward\" - Kung-Fu Alley",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"The Dragon Mark\" - Kung-Fu Alley",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Long Horizontal Rods Tutorial - Redux\" - Kung-Fu Alley",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -1888,6 +2302,7 @@
       {
         "name": "Midnight Bay",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2029,6 +2444,18 @@
           {
             "name": "Buligie - Midnight Bay",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Midnight Bay",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Laser Sensors Tutorial\" - Midnight Bay",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -2042,6 +2469,7 @@
       {
         "name": "Tomoki City",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2210,6 +2638,18 @@
           {
             "name": "Tomimon - Tomoki City",
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Tomoki City",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Cyber Ace Reminder\" - Tomoki City",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -2223,6 +2663,7 @@
       {
         "name": "Space-TV Fortress",
         "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2423,6 +2864,24 @@
               "Shoot", "Hit"
             ],
             "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Space-TV Fortress",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone \"Escaping the Stage Tutorial\" - Space-TV Fortress",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone \"Bringing the curtain down on Specter TV\" - Space-TV Fortress",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "item_count": 1
           }
         ],
         "map_locations": [
@@ -2436,6 +2895,7 @@
       {
         "name": "Monkey White Fight!",
         "chest_unopened_img": "/images/items/White Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2460,6 +2920,7 @@
       {
         "name": "Monkey Blue Fight!",
         "chest_unopened_img": "/images/items/Blue Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2484,6 +2945,7 @@
       {
         "name": "Monkey Yellow Fight!",
         "chest_unopened_img": "/images/items/Yellow Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2508,6 +2970,7 @@
       {
         "name": "Monkey Pink Fight!",
         "chest_unopened_img": "/images/items/Pink Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2532,6 +2995,7 @@
       {
         "name": "Monkey Red Fight!",
         "chest_unopened_img": "/images/items/Red Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2556,6 +3020,7 @@
       {
         "name": "Dr. Tomoki Fight!",
         "chest_unopened_img": "/images/items/Doctor Tomoki.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"
@@ -2577,6 +3042,7 @@
       {
         "name": "Specter Fight!",
         "chest_unopened_img": "/images/items/Specter.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
           "Net"

@@ -40,5 +40,20 @@
         ]
       }
     ]
-  }
+  },
+  "settings_popup": {
+		"type": "array",
+		"orientation": "horizontal",
+		"content": [
+			{
+				"type": "itemgrid",
+        "item_margin": "10, 10",
+        "item_size": 100,
+        "h_alignment": "left",
+        "rows": [
+          ["Kei"]
+				]
+			}
+		]
+	}
 }

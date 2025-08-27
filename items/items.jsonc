@@ -52,35 +52,53 @@
         "type": "toggle",
         "img": "images/items/Keisprite1.png",
         "codes": "Knight, Catch, Morph, Morph_No_Monkey, Attack, Hit"
-    },    {
+    },    
+    {
         "name": "Wild West Kid",
         "type": "toggle",
         "img": "images/items/Keisprite2.png",
         "codes": "Wild, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Shoot, Hit"
-    },    {
+    },    
+    {
         "name": "Miracle Ninja",
         "type": "toggle",
         "img": "images/items/Keisprite3.png",
         "codes": "Ninja, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Hit, Fly, Glide"
-    },    {
+    },    
+    {
         "name": "Genie Dancer",
         "type": "toggle",
         "img": "images/items/Keisprite4.png",
         "codes": "Dancer, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Hit"
-    },    {
+    },    
+    {
         "name": "Dragon Kung Fu Fighter",
         "type": "toggle",
         "img": "images/items/Keisprite5.png",
         "codes": "Fighter, Catch, Morph, Morph_No_Monkey, Attack, Hit"
-    },    {
+    },    
+    {
         "name": "Cyber Ace",
         "type": "toggle",
         "img": "images/items/Keisprite6.png",
         "codes": "Ace, Catch, Catch_long, Morph, Morph_No_Monkey, Attack, Dash, Shoot, Hit, Glide"
-    },    {
+    },    
+    {
         "name": "Super Monkey",
         "type": "toggle",
         "img": "images/items/Keisprite7.png",
         "codes": "Monkey, Morph"
+    },
+    {
+        "name": "Kei",
+        "type": "toggle",
+        "img": "images/items/Kei.png",
+        "codes": "Kei"
+    },
+    {
+        "name": "Yumi",
+        "type": "toggle",
+        "img": "images/items/Yumi.png",
+        "codes": "Yumi"
     }
 ]
