@@ -21,3 +21,16 @@ ITEM_MAPPING = {
 	[1000] = { { "Channel_Key", "toggle" } },
 	[6592920] = { { "Explosive_Pallet", "toggle" } },	
 }
+BASE_ITEM_ID = 0
+ITEM_MAPPING = {
+    [6592848] = { { "Yumi Club", "toggle" } },
+	[6592868] = { { "Yumi Car", "toggle" } },
+	[6592872] = { { "Yumi Flyer", "toggle" } },
+	[6592816] = { { "Yumi Knight", "toggle" } },
+	[6592820] = { { "Yumi Wild", "toggle" } },
+	[6592824] = { { "Yumi Ninja", "toggle" } },
+	[6592828] = { { "Yumi Dancer", "toggle" } },
+	[6592832] = { { "Yumi Fighter", "toggle" } },
+	[6592836] = { { "Yumi Ace", "toggle" } },
+	[6592840] = { { "Yumi Monkey", "toggle" } }, 	
+}
