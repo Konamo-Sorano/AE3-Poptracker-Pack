@@ -67,7 +67,7 @@
             "item_count": 1
           },
           {
-            "name": "Tomezo - Seaside Resortt",
+            "name": "Tomezo - Seaside Resort",
             "item_count": 1
           },
           {
@@ -710,7 +710,7 @@
             "item_count": 1
           },
           {
-            "name": "Pipo Camera - Specter TV Studio",
+            "name": "Pipo Camera - Bootown",
             "chest_unopened_img": "/images/items/Pipo camera.png",
             "chest_opened_img": "/images/items/Pipo camera done.png",
             "item_count": 1
@@ -990,7 +990,7 @@
             "item_count": 1
           },
           {
-            "name": "Pipo Camera - Wild West Town",
+            "name": "Pipo Camera - The Hot Springs",
             "chest_unopened_img": "/images/items/Pipo camera.png",
             "chest_opened_img": "/images/items/Pipo camera done.png",
             "item_count": 1
@@ -1135,7 +1135,7 @@
             "item_count": 1
           },
           {
-            "name": "Pipo Camera - The Hot Springs",
+            "name": "Pipo Camera - Winterville",
             "chest_unopened_img": "/images/items/Pipo camera.png",
             "chest_opened_img": "/images/items/Pipo camera done.png",
             "item_count": 1
@@ -1575,7 +1575,7 @@
         ]
       },
       {
-        "name": "Artic Wonderland",
+        "name": "Arctic Wonderland",
         "chest_unopened_img": "/images/items/Monkey.png",
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
