@@ -46,3 +46,4 @@ if PopVersion and PopVersion >= "0.18.0" then
 end
 
 ScriptHost:LoadScript("scripts/watches.lua")
+ScriptHost:LoadScript("scripts/ap_channel_logic.lua")

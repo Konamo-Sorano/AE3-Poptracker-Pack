@@ -90,6 +90,13 @@
         "codes": "Monkey, Morph, Kei Monkey"
     },
     {
+        "name": "Channel Key",
+        "type": "consumable",
+        "img": "images/items/Base Key.png",
+        "codes": "Channel_Key",
+        "max_quantity": 45
+    },
+    {
         "name": "Player",
         "type": "progressive",
         "loop": true,

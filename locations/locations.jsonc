@@ -28,7 +28,7 @@
         "chest_unopened_img": "/images/items/Monkey.png",
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
-          "Net"
+          "Net, $canAccessChannel|0"
         ],
         "sections": [
           {
@@ -122,7 +122,7 @@
         "chest_unopened_img": "/images/items/Monkey.png",
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
-          "Net"
+          "Net, $canAccessChannel|1"
         ],
         "sections": [
           {
@@ -245,7 +245,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|2"
         ],
         "sections": [
           {
@@ -369,7 +369,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|4"
         ],
         "sections": [
           {
@@ -483,7 +483,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|5"
         ],
         "sections": [
           {
@@ -610,7 +610,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|6"
         ],
         "sections": [
           {
@@ -754,7 +754,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|7"
         ],
         "sections": [
           {
@@ -853,7 +853,7 @@
             "item_count": 1
           },
           {
-            "name": "Pipo Camera - Bootown",
+            "name": "Pipo Camera - Wild West Town",
             "chest_unopened_img": "/images/items/Pipo camera.png",
             "chest_opened_img": "/images/items/Pipo camera done.png",
             "item_count": 1
@@ -891,7 +891,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|9"
         ],
         "sections": [
           {
@@ -1028,7 +1028,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|10"
         ],
         "sections": [
           {
@@ -1161,7 +1161,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|11"
         ],
         "sections": [
           {
@@ -1308,7 +1308,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|13", "Fly"
         ],
         "sections": [
           {
@@ -1436,7 +1436,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|14"
         ],
         "sections": [
           {
@@ -1580,7 +1580,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|15"
         ],
         "sections": [
           {
@@ -1700,7 +1700,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|16"
         ],
         "sections": [
           {
@@ -1842,7 +1842,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|18"
         ],
         "sections": [
           {
@@ -1982,7 +1982,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|19"
         ],
         "sections": [
           {
@@ -2119,7 +2119,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|20"
         ],
         "sections": [
           {
@@ -2305,7 +2305,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|22"
         ],
         "sections": [
           {
@@ -2472,7 +2472,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|23"
         ],
         "sections": [
           {
@@ -2666,7 +2666,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|25"
         ],
         "sections": [
           {
@@ -2898,7 +2898,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|3"
         ],
         "sections": [
           {
@@ -2923,7 +2923,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|8"
         ],
         "sections": [
           {
@@ -2948,7 +2948,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|12"
         ],
         "sections": [
           {
@@ -2973,7 +2973,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|17"
         ],
         "sections": [
           {
@@ -2998,7 +2998,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|21"
         ],
         "sections": [
           {
@@ -3023,7 +3023,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|24"
         ],
         "sections": [
           {
@@ -3045,7 +3045,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net"
+          "Net, $canAccessChannel|26"
         ],
         "sections": [
           {

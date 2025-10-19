@@ -18,6 +18,6 @@ ITEM_MAPPING = {
 	[6592832] = { { "Fighter", "toggle" }, { "Yumi Fighter", "toggle" } },
 	[6592836] = { { "Ace", "toggle" }, { "Yumi Ace", "toggle" } },
 	[6592840] = { { "Monkey", "toggle" }, { "Yumi Monkey", "toggle" } },
-	[1000] = { { "Channel_Key", "toggle" } },
+	[1000] = { { "Channel_Key", "consumable" } },
 	[6592920] = { { "Explosive_Pallet", "toggle" } },	
 }
