@@ -1,7 +1,8 @@
 # Important to know
-This is a v1 of the pack that is very limited the logic expects you to have all stages from the start (will fix this but it will take a while) and doesn't account for the monkeys in the secret room to require Super Monkey Morph.
+Has some logic problems like Super Monkey Morph not being required for secret room monkeys.
 Also this uses hard logic so if you don't know how to access something look at the spread sheet:
 https://docs.google.com/spreadsheets/d/1X9sZx18RyGr5vdZAenyaztxwBWmzszhxCujjln8gl9o/edit?usp=sharing
+but if the spread sheet doesn't say anything about something then that is a logic problem I don't have much time to fix this so do expect a lot of problems
 
 You can  also find the randomizer for this game here:
 https://github.com/aidanii24/ae3-archipelago/releases
@@ -11,11 +12,7 @@ there is plans to improve this to some extent but don't expect much out of me
 I barely know what I am doing here
 ## Todo list
 
-Add settings
-
-Track the amount of channel keys you have
-
-Make the tracker know if you have the stage or not
+Add more settings
 
 Put logic for the secret rooms to require Super Monkey Morph
 
