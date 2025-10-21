@@ -97,6 +97,18 @@
         "max_quantity": 45
     },
     {
+        "name": "Camera Sanity",
+        "type": "toggle",
+        "img": "images/items/Pipo Camera Alt.png",
+        "codes": "Camera setting"
+    },
+    {
+        "name": "Cellphone Sanity",
+        "type": "toggle",
+        "img": "images/items/Red phone.png",
+        "codes": "Cellphone setting"
+    },    
+    {
         "name": "Player",
         "type": "progressive",
         "loop": true,
@@ -113,6 +125,32 @@
                 "type": "toggle",
                 "img": "images/items/Yumi.png",
                 "codes": "Yumi, Player"
+            }
+        ]
+    },
+        {
+        "name": "Logic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Easy",
+                "type": "toggle",
+                "img": "images/temp/easy.jpg",
+                "codes": "Easy, Logic"
+            },
+            {
+                "name": "Normal",
+                "type": "toggle",
+                "img": "images/temp/normal.jpg",
+                "codes": "Normal, Logic"
+            },
+            {
+                "name": "Hard",
+                "type": "toggle",
+                "img": "images/temp/hard.jpg",
+                "codes": "Hard, Logic"
             }
         ]
     }

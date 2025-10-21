@@ -52,7 +52,11 @@
         "item_size": 100,
         "h_alignment": "left",
         "rows": [
-          ["Player"]
+          ["Player",
+           "Camera setting",
+           "Cellphone setting",
+           "Logic"
+          ]
 				]
 			}
 		]
