@@ -107,7 +107,13 @@
         "type": "toggle",
         "img": "images/items/Red phone.png",
         "codes": "Cellphone setting"
-    },    
+    },
+    {
+        "name": "Password monkeys",
+        "type": "toggle",
+        "img": "images/items/password monkeys.png",
+        "codes": "Password"
+    },     
     {
         "name": "Player",
         "type": "progressive",

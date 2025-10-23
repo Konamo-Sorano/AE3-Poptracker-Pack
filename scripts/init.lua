@@ -47,3 +47,4 @@ end
 
 ScriptHost:LoadScript("scripts/watches.lua")
 ScriptHost:LoadScript("scripts/ap_channel_logic.lua")
+ScriptHost:LoadScript("scripts/ap_settings.lua")

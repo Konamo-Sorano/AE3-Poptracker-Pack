@@ -54,7 +54,7 @@
           {
             "name": "Morella - Seaside Resort",
             "access_rules": [
-          "Fly", "Shoot", "Dancer"
+          "Easy, Fly", "Easy, Shoot","Normal, Fly", "Nromal, Shoot", "Hard, Fly", "Hard, Shoot","Hard, Dancer"
           ],
             "item_count": 1
           },
@@ -64,18 +64,30 @@
           },
           {
             "name": "Kankichi - Seaside Resort",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tomezo - Seaside Resort",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kamayan - Seaside Resort",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Taizo - Seaside Resort",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -149,7 +161,7 @@
           {
             "name": "Salubon - Hide-n-Seek Forest",
             "access_rules": [
-              "Attack, Radar", "Hit"
+              "Easy, Attack, Radar", "Normal, Hit", "Hard, Hit"
             ]            ,
             "item_count": 1
           },
@@ -175,28 +187,41 @@
           {
             "name": "Ukkilei - Hide-n-Seek Forest",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Spork - Hide-n-Seek Forest",
+            "visibility_rules": ["Password"],
             "item_count": 1
           },
           {
             "name": "King Goat - Hide-n-Seek Forest",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Marukichi - Hide-n-Seek Forest",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kikimon - Hide-n-Seek Forest",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kominato - Hide-n-Seek Forest",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -266,7 +291,7 @@
           {
             "name": "Pipo Guard - Saru-mon's Castle",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -289,7 +314,7 @@
           {
             "name": "Monga - Saru-mon's Castle",
             "access_rules":[
-              "Shoot", "Glide"
+              "Easy, Shoot", "Nromal, Shoot","Normal, Glide", "Hard, Shoot", "Hard, Glide"
             ],
             "item_count": 1
           },
@@ -304,7 +329,7 @@
           {
             "name": "Ukkii - Saru-mon's Castle",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -314,24 +339,37 @@
           },
           {
             "name": "King's Double - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Mattsun - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Miya - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Mon San - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "SAL-1000 - Saru-mon's Castle",
+            "visibility_rules": ["Password"],
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -402,7 +440,7 @@
           {
             "name": "Pipo Mondy - The Big City",
             "access_rules":[
-              "Attack, Dash", "Dash"
+              "Easy, Attack, Dash", "Normal, Dash", "Hard, Dash"
             ],
             "item_count": 1
           },
@@ -452,18 +490,30 @@
           },
           {
             "name": "Sally Kokoroe - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Monkey Manager - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Supervisor Chimp - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Boss Ape - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -516,14 +566,14 @@
           {
             "name": "Minoh - Specter TV Studio",
             "access_rules":[
-              "Shoot", "Glide"
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Glide", "Hard, Shoot", "Hard, Glide"
             ],
             "item_count": 1
           },
           {
             "name": "Monta - Specter TV Studio",
             "access_rules":[
-              "Shoot", "Glide"
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Glide", "Hard, Shoot", "Hard, Glide"
             ],
             "item_count": 1
           },
@@ -534,7 +584,7 @@
           {
             "name": "Monpii Ukkichi - Specter TV Studio",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -576,18 +626,30 @@
           },
           {
             "name": "Ukki Paul - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Sally Mon - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Bonly - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Monly - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -650,7 +712,7 @@
           {
             "name": "Uikkun - Bootown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -661,14 +723,14 @@
           {
             "name": "Bonbon - Bootown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "ChiChi - Bootown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -691,7 +753,7 @@
           {
             "name": "Ukkito - Bootown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -702,33 +764,43 @@
           {
             "name": "Ukkiami - Bootown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Monjan - Bootown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Nattchan - Bootown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kabochin - Bootown",
+            
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Monkey, Attack", "Normal, Monkey, Hit", "Hard, Monkey, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Ukki Mon - Bootown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Mumpkin - Bootown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -811,18 +883,30 @@
           },
           {
             "name": "Lucky Woo - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Pamela - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Ukki Monber - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Gaukichi - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -832,7 +916,7 @@
           {
             "name": "Jay Mohn - Wild West Town",
             "access_rules":[
-              "Attack", "Hit", "Flyer"
+              "Easy, Attack", "Normal, Hit", "Normal, Flyer", "Hard, Hit", "Hard, Flyer"
             ],
             "item_count": 1
           },
@@ -847,28 +931,28 @@
           {
             "name": "Jaja Jamo - Wild West Town",
             "access_rules":[
-              "Attack", "Hoop"
+              "Easy, Attack", "Normal, Attack", "Normal, Hoop", "Hard, Attack", "Hard, Hoop"
             ],
             "item_count": 1
           },
           {
             "name": "Chammy Mo - Wild West Town",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Golozo - Wild West Town",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Golon Moe - Wild West Town",
             "access_rules":[
-              "Morph_No_Monkey", "Attack"
+              "Easy, Morph_No_Monkey", "Normal, Attack", "Hard, Attack"
             ],
             "item_count": 1
           },
@@ -968,24 +1052,36 @@
           {
             "name": "Domobeh - The Hot Springs",
             "access_rules":[
-              "Swim", "Catch_long"
+              "Easy, Swim", "Normal, Swim", "Normal, Catch_long", "Hard, Swim", "Hard, Catch_long"
             ],
             "item_count": 1
           },
           {
             "name": "Sam-san - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Donkichi - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Minokichi - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tatabo - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -999,14 +1095,14 @@
           {
             "name": "Kimisan - The Hot Springs",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Mujakin - The Hot Springs",
             "access_rules":[
-              "Shoot, Swim", "Swim", "Catch_long"
+              "Easy, Shoot, Swim", "Normal, Swim", "Normal, Catch_long", "Hard, Swim", "Hard, Catch_long"
             ],
             "item_count": 1
           },
@@ -1017,7 +1113,7 @@
           {
             "name": "Fuji-chan - The Hot Springs",
             "access_rules":[
-              "Shoot", "Ninja"
+              "Easy, Shoot", "Nromal, Shoot", "Hard, Shoot", "Hard, Ninja"
             ],
             "item_count": 1
           },
@@ -1096,7 +1192,7 @@
           {
             "name": "Konkichi - Winterville",
             "access_rules":[
-              "Attack, Radar", "Radar"
+              "Easy, Attack, Radar", "Normal, Radar", "Hard, Rader"
             ],
             "item_count": 1
           },
@@ -1106,8 +1202,9 @@
           },
           {
             "name": "Pipotron Yellow - Winterville",
+            "visibility_rules": ["Password"],
             "access_rules":[
-              "Attack", "Dash"
+              "Easy, Attack", "Normal, Dash", "Hard, Dash"
             ],
             "item_count": 1
           },
@@ -1125,6 +1222,7 @@
           },
           {
             "name": "Shimmy - Winterville",
+            "visibility_rules": ["Password"],
             "item_count": 1
           },
           {
@@ -1146,7 +1244,7 @@
           {
             "name": "Ukki Jii - Winterville",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -1156,18 +1254,30 @@
           },
           {
             "name": "Kimi-chan - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Sae-chan - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tassan - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tomokun - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -1228,7 +1338,7 @@
           {
             "name": "Fatty Mcfats - The Emperor's Castle",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -1284,21 +1394,30 @@
           },
           {
             "name": "Monchin Chi - The Emperor's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Masachi - The Emperor's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Golota - The Emperor's Castle",
             "access_rules":[
-              "Attack"
+              "Attack, Monkey"
             ],
             "item_count": 1
           },
           {
             "name": "Kinsuke - The Emperor's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -1368,7 +1487,7 @@
           {
             "name": "Ukkido - Mount Amazing",
             "access_rules":[
-              "Shoot", "Attack"
+              "Easy, Shoot", "Normal, Attack", "Hard, Attack"
             ],
             "item_count": 1
           },
@@ -1387,7 +1506,7 @@
           {
             "name": "Tami - Mount Amazing",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -1432,24 +1551,36 @@
           {
             "name": "Valuccha - Mount Amazing",
             "access_rules":[
-              "Shoot", "Attack"
+              "Easy, Shoot", "Normal, Attack", "Hard, Attack"
             ],
             "item_count": 1
           },
           {
             "name": "Pisuke - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kansuke - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Pohta - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Keisuke - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -1539,7 +1670,7 @@
           {
             "name": "Monto - Toytown",
             "access_rules":[
-              "Shoot", "Ninja", "Flyer"
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Ninja", "Hard, Shoot", "Hard, Ninja", "Hard, Flyer"
             ],
             "item_count": 1
           },
@@ -1555,7 +1686,8 @@
             "item_count": 1
           },
           {
-            "name": "Piptron Red - Toytown",
+            "name": "Pipotron Red - Toytown",
+            "visibility_rules": ["Password"],
             "access_rules":[
               "Morph_No_Monkey"
             ],
@@ -1568,7 +1700,7 @@
           {
             "name": "Golonero - Toytown",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -1578,18 +1710,30 @@
           },
           {
             "name": "Tam Konta - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tam Mimiko - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tam Papa - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Tam Mama - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -1665,21 +1809,21 @@
           {
             "name": "Malikko - Arctic Wonderland",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Bolikko - Arctic Wonderland",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Iceymon - Arctic Wonderland",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -1701,18 +1845,30 @@
           },
           {
             "name": "Monkino - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kyam - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kappino - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kris Krimon - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -1761,7 +1917,7 @@
           {
             "name": "Minimon - Mirage Town",
             "access_rules":[
-              "Dancer", "Shot, Dash"
+              "Easy, Dancer", "Normal, Dancer", "Hard, Dancer", "Hard, Shot, Dash"
             ],
             "item_count": 1
           },
@@ -1788,7 +1944,7 @@
           {
             "name": "Cup-o-mon - Mirage Town",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -1830,18 +1986,30 @@
           },
           {
             "name": "Miccho - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Kisha - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Gimuccho - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Wojin - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -1916,7 +2084,7 @@
           {
             "name": "Baku - Eversummer Island",
             "access_rules":[
-              "Shoot, Swim", "Ninja", "Ace"
+              "Easy, Shoot, Swim", "Normal, Shoot, Swim", "Normal, Ninja", "Hard, Shoot, Swim", "Hard, Ninja", "Hard, Ace"
             ],
             "item_count": 1
           },
@@ -1966,14 +2134,14 @@
           {
             "name": "Takumon - Eversummer Island",
             "access_rules":[
-              "Swim", "Ninja", "Ace", "Wild", "Club, Fighter", "Car, Fighter", "Shoot, Fighter"
+              "Easy, Swim", "Normal, Swim", "Normal, Ninja", "Normal, Ace", "Normal, Wild", "Hard, Swim", "Hard, Ninja", "Hard, Ace", "Hard, Wild",  "Hard, Club, Fighter", "Hard, Car, Fighter", "Hard, Shoot, Fighter"
             ],
             "item_count": 1
           },
           {
             "name": "Ukki Ether - Eversummer Island",
             "access_rules":[
-              "Swim", "Ace"
+              "Easy, Swim", "Normal, Swim", "Hard, Swim", "Hard, Ace"
             ],
             "item_count": 1
           },
@@ -1991,18 +2159,30 @@
           },
           {
             "name": "Gucchai - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Makaccho - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Gamaran - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Larry - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -2096,6 +2276,7 @@
           },
           {
             "name": "Pipotron Blue - Airplane Squadron",
+            "visibility_rules": ["Password"],
             "access_rules":[
               "Morph_No_Monkey"
             ],
@@ -2123,31 +2304,43 @@
           },
           {
             "name": "Samuel - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Coril - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Bont - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Delly - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Jeloh - Airplane Squadron",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Bongo - Airplane Squadron",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2217,14 +2410,14 @@
           {
             "name": "Uki Uki - Kung-Fu Alley",
             "access_rules":[
-              "Shoot","Fly"
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Fly", "Hard, Fly", "Hard, Shoot"
             ],
             "item_count": 1
           },
           {
             "name": "Muki Muki - Kung-Fu Alley",
             "access_rules":[
-              "Shoot", "Fly"
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Fly", "Hard, Fly", "Hard, Shoot"
             ],
             "item_count": 1
           },
@@ -2246,14 +2439,14 @@
           {
             "name": "Bankan - Kung-Fu Alley",
             "access_rules":[
-              "Ninja", "Ace"
+              "Easy, Ninja", "Normal, Ninja", "Normal, Ace", "Hard, Ninja", "Hard, Ace"
             ],
             "item_count": 1
           },
           {
             "name": "Sukei - Kung-Fu Alley",
             "access_rules":[
-              "Shoot", "Ninja"
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Ninja", "Hard, Shoot", "Hard, Ninja"
             ],
             "item_count": 1
           },
@@ -2291,18 +2484,30 @@
           },
           {
             "name": "Tompo - Kung-Fu Alley",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Wootan - Kung-Fu Alley",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Chechin - Kung-Fu Alley",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Hapcho - Kung-Fu Alley",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -2311,6 +2516,7 @@
           },
           {
             "name": "Dark Master - Kung-Fu Alley",
+            "visibility_rules": ["Password"],
             "item_count": 1
           },
           {
@@ -2377,7 +2583,7 @@
           {
             "name": "Nadamon - Midnight Bay",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2458,7 +2664,7 @@
           {
             "name": "Nakabi - Midnight Bay",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2473,14 +2679,14 @@
           {
             "name": "Gimi Gimi - Midnight Bay",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Pokkini - Midnight Bay",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2497,18 +2703,30 @@
           },
           {
             "name": "Makidon - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Dogy - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Gibdon - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Buligie - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -2546,21 +2764,21 @@
           {
             "name": "Kichibeh - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Bonchicchi - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Mikibon - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2586,28 +2804,28 @@
           {
             "name": "Chimpy - Tomoki City",
             "access_rules":[
-              "Fighter", "Ninja", "Morph_No_Monkey"
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
             ],
             "item_count": 1
           },
           {
             "name": "Kajitan - Tomoki City",
             "access_rules":[
-              "Fighter", "Ninja", "Morph_No_Monkey"
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
             ],
             "item_count": 1
           },
           {
             "name": "Uka Uka - Tomoki City",
             "access_rules":[
-              "Fighter", "Ninja", "Morph_No_Monkey"
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
             ],
             "item_count": 1
           },
           {
             "name": "Mil Mil - Tomoki City",
             "access_rules":[
-              "Fighter", "Ninja", "Morph_No_Monkey"
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
             ],
             "item_count": 1
           },
@@ -2633,14 +2851,14 @@
           {
             "name": "Tomio - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Gario - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2676,31 +2894,43 @@
           {
             "name": "SAL-13 - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "SAL-12 - Tomoki City",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Tomu - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Breadacus - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Ukkigoro - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Ukiji - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
@@ -2833,14 +3063,14 @@
           {
             "name": "Freet - Space-TV Fortress",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Chico - Space-TV Fortress",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2900,38 +3130,51 @@
           },
           {
             "name": "Upis - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Mondatta - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Gicchom - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "Barire - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
             "item_count": 1
           },
           {
             "name": "SAL-10 - Space-TV Fortress",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "SAL-11 - Space-TV Fortress",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "SAL-3000 - Space-TV Fortress",
+            "visibility_rules": ["Password"],
             "access_rules":[
-              "Shoot", "Hit"
+              "Easy, Shoot", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
@@ -2977,7 +3220,7 @@
           {
             "name": "Monkey White",
             "access_rules":[
-              "Morph_No_Monkey", "Hit"
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           }
@@ -3002,7 +3245,7 @@
           {
             "name": "Monkey Blue",
             "access_rules":[
-              "Attack", "Hit"
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           }
@@ -3027,7 +3270,7 @@
           {
             "name": "Monkey Yellow",
             "access_rules":[
-              "Ninja", "Hit"
+              "Easy, Ninja", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           }
@@ -3077,7 +3320,7 @@
           {
             "name": "Monkey Red",
             "access_rules":[
-              "Morph_No_Monkey", "Hit"
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           }
@@ -3124,14 +3367,14 @@
           {
             "name": "Specter",
             "access_rules":[
-              "Morph_No_Monkey", "Hit"
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           },
           {
             "name": "Specter Finale",
             "access_rules":[
-              "Attack, Swim", "Hit"
+              "Easy, Attack, Swim", "Normal, Hit", "Hard, Hit"
             ],
             "item_count": 1
           }
