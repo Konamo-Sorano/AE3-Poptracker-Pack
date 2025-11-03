@@ -28,8 +28,8 @@ function getUnlockedChannels()
         return {}
     end
    
-    local keys = (APData.keys or 0)+1
-    --local keys = Tracker:FindObjectForCode("Channel_Key").AcquiredCount+1
+    --local keys = (APData.keys or 0)+1
+    local keys = Tracker:FindObjectForCode("Channel_Key").AcquiredCount+1
     print("keys", keys)
     local totalUnlocked = 1
     for i = 1, keys do
