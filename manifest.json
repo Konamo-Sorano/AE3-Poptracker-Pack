@@ -4,7 +4,7 @@
   // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
   "name": "Ape Escape 3 tracker",
   "game_name": "<Ape Escape 3>",
-  "package_version": "1.4.3.0",
+  "package_version": "1.4.3.1",
   "package_uid": "Ape Escape 3 PAIN",
   // enables SNES memory autotracking interface - remove/change if not needed
   "platform": "PS2",
