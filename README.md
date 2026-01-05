@@ -8,8 +8,7 @@ https://github.com/aidanii24/ae3-archipelago/releases
 ## What is this
 This is an Ape Escape 3 poptracker Pack that needs some small fixes
 ## Todo list
-Fetch slot data to automatically change the settings
 
-Add more maps
+Add more maps (lost most screenshots because god loves me)
 
 Clean the code (probably won't do this because GOD THIS THING IS A MESS)
