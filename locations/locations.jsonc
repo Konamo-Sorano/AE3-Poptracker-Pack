@@ -429,7 +429,7 @@
           {
             "name": "Ukima - The Big City",
             "access_rules":[
-              "Dash"
+              "Easy, Dash", "Normal", "Hard"
             ],
             "item_count": 1
           },
@@ -440,7 +440,7 @@
           {
             "name": "Pipo Mondy - The Big City",
             "access_rules":[
-              "Easy, Attack, Dash", "Normal, Dash", "Hard, Dash"
+              "Easy, Attack, Dash", "Normal, Dash", "Hard"
             ],
             "item_count": 1
           },

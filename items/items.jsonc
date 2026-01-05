@@ -143,20 +143,32 @@
             {
                 "name": "Easy",
                 "type": "toggle",
-                "img": "images/temp/easy.jpg",
+                "img": "images/temp/Easy.png",
                 "codes": "Easy, Logic"
             },
             {
                 "name": "Normal",
                 "type": "toggle",
-                "img": "images/temp/normal.jpg",
+                "img": "images/temp/Normal.png",
                 "codes": "Normal, Logic"
             },
             {
                 "name": "Hard",
                 "type": "toggle",
-                "img": "images/temp/hard.jpg",
+                "img": "images/temp/Hard.png",
                 "codes": "Hard, Logic"
+            },
+            {
+                "name": "Expert",
+                "type": "toggle",
+                "img": "images/temp/Expert.png",
+                "codes": "Expert, Logic"
+            },
+            {
+                "name": "HDS MQJ",
+                "type": "toggle",
+                "img": "images/temp/HDS MQJ.png",
+                "codes": "HDS MQJ, Logic"
             }
         ]
     }
