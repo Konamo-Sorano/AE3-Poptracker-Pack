@@ -5,5 +5,17 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/all checks panel.png"
+  },
+  {
+    "name": "Seaside Resort",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/seaside resort.png"
+  },
+  {
+    "name": "Cathederal",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/seaside resort cathederal.png"
   }
 ]

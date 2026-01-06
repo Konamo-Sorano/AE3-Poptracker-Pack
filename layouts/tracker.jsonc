@@ -35,6 +35,15 @@
                   "all locations"
                 ]
               }
+            },
+            {
+              "title": "Seaside Resort",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Seaside Resort"
+                ]
+              }
             }
           ]
         }
@@ -67,18 +76,38 @@
           ]
         },
         {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "All locations",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "all locations"
-                ]
-              }
+        "type": "tabbed",
+        "tabs": [
+          {
+            "title": "All locations",
+            "content": {
+              "type": "map",
+              "maps": ["all locations"]
             }
-          ]
+          },
+          {
+            "title": "Seaside Resort",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "Seaside Resort",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Seaside Resort"]
+                  }
+                },
+                {
+                  "title": "Cathederal",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Cathederal"]
+                  }
+                }
+              ]
+            }
+          }
+        ]
         }
       ]
     },
