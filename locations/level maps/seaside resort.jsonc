@@ -19,6 +19,48 @@
             "item_count": 1
           },
           {
+            "name": "Ukkitan - Seaside Resort",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Cellphones and Gadgets Tutorials - Seaside Resort",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Cookies Tutorial - Seaside Resort",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Switches Tutorial - Seaside Resort",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Seaside Resort",
+            "x": 673,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "Seaside Resort",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          "Net, $canAccessChannel|0"
+        ],
+        "sections": [
+          {
             "name": "Sarubo - Seaside Resort",
             "item_count": 1
           },
@@ -27,20 +69,65 @@
             "item_count": 1
           },
           {
-            "name": "Ukkitan - Seaside Resort",
-            "item_count": 1
-          },
-          {
+
             "name": "Morella - Seaside Resort",
             "access_rules": [
-          "Easy, Fly", "Easy, Shoot","Normal, Fly", "Nromal, Shoot", "Hard, Fly", "Hard, Shoot","Hard, Dancer"
+          "Easy, Fly", "Easy, Shoot", "Normal, Fly", "Nromal, Shoot", "Hard, Fly", "Hard, Shoot", "Hard, Dancer"
           ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Seaside Resort",
+            "x": 240,
+            "y": 340
+          }
+        ]
+      },
+      {
+        "name": "Cathederal",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          "Net, Hard, $canAccessChannel|0", "Net, Expert, $canAccessChannel|0", "Net, Easy, Attack, $canAccessChannel|0", "Net, Normal, Hit, $canAccessChannel|0"
+        ],
+        "sections": [
+          {
+            "name": "Pipo Camera - Seaside Resort",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
             "item_count": 1
           },
           {
             "name": "Ukki Ben - Seaside Resort",
             "item_count": 1
           },
+          {
+            "name": "Blue Cellphone Pipo Camera Tutorial - Seaside Resort",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Cathederal",
+            "x": 628,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "Seaside Resort Break Room",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          "Net, $canAccessChannel|0"
+        ],
+        "sections": [
           {
             "name": "Kankichi - Seaside Resort",
             "access_rules": [
@@ -68,48 +155,6 @@
           "Monkey"
           ],
             "item_count": 1
-          },
-          {
-            "name": "Pipo Camera - Seaside Resort",
-            "chest_unopened_img": "/images/items/Pipo camera.png",
-            "chest_opened_img": "/images/items/Pipo camera done.png",
-            "visibility_rules": ["Camera setting"],
-            "item_count": 1
-          },
-          {
-            "name": "Red Cellphone Cellphones and Gadgets Tutorials - Seaside Resort",
-            "chest_unopened_img": "/images/items/Red phone.png",
-            "chest_opened_img": "/images/items/Red phone off.png",
-            "visibility_rules":["Cellphone setting"],
-            "item_count": 1
-          },
-          {
-            "name": "Blue Cellphone Cookies Tutorial - Seaside Resort",
-            "chest_unopened_img": "/images/items/Blue phone.png",
-            "chest_opened_img": "/images/items/Blue phone off.png",
-            "visibility_rules":["Cellphone setting"],
-            "item_count": 1
-          },
-          {
-            "name": "Red Cellphone Switches Tutorial - Seaside Resort",
-            "chest_unopened_img": "/images/items/Red phone.png",
-            "chest_opened_img": "/images/items/Red phone off.png",
-            "visibility_rules":["Cellphone setting"],
-            "item_count": 1
-          },
-          {
-            "name": "Blue Cellphone Pipo Camera Tutorial - Seaside Resort",
-            "chest_unopened_img": "/images/items/Blue phone.png",
-            "chest_opened_img": "/images/items/Blue phone off.png",
-            "visibility_rules":["Cellphone setting"],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Seaside Resort",
-            "x": 618,
-            "y": 454
           }
         ]
       }
