@@ -33,6 +33,8 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Locations
     Tracker:AddLocations("locations/locations.jsonc")
     Tracker:AddLocations("locations/level maps/seaside resort.jsonc")
+    Tracker:AddLocations("locations/level maps/Hide-n-Seek.jsonc")
+    Tracker:AddLocations("locations/level maps/Saru-mon's Castle.jsonc")
 end
 
 -- Layout

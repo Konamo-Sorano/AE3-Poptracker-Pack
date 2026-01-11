@@ -1,0 +1,253 @@
+[
+  {
+    "name": "Hide-n-Seek Forest",
+    "children": [
+            {
+                "name": "Hide-n-Seek Forest",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                "Net, $canAccessChannel|1"
+                ],
+                "sections": [
+                {
+                    "name": "Ukki Pon - Hide-n-Seek Forest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Ukkian - Hide-n-Seek Forest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Spork - Hide-n-Seek Forest",
+                    "visibility_rules": ["Password"],
+                    "item_count": 1
+                },
+                {
+                    "name": "Red Cellphone Jump Tutorial - Hide-n-Seek Forest",
+                    "chest_unopened_img": "/images/items/Red phone.png",
+                    "chest_opened_img": "/images/items/Red phone off.png",
+                    "visibility_rules":["Cellphone setting"],
+                    "item_count": 1
+                },
+                {
+                    "name": "Red Cellphone Assigning Gadgets and Monkey Radar Reminder - Hide-n-Seek Forest",
+                    "chest_unopened_img": "/images/items/Red phone.png",
+                    "chest_opened_img": "/images/items/Red phone off.png",
+                    "visibility_rules":["Cellphone setting"],
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Forest",
+                    "x": 1050,
+                    "y": 990
+                }
+                ]
+            },
+            {
+                "name": "Hide-n-Seek Flower Field",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                "Net, $canAccessChannel|1"
+                ],
+                "sections": [
+                    {
+                        "name": "Ukki Red - Hide-n-Seek Forest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rosalin - Hide-n-Seek Forest",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pipo Camera - Hide-n-Seek Forest",
+                        "chest_unopened_img": "/images/items/Pipo camera.png",
+                        "chest_opened_img": "/images/items/Pipo camera done.png",
+                        "visibility_rules": ["Camera setting"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blue Cellphone Double-Jump Tutorial - Hide-n-Seek Forest",
+                        "chest_unopened_img": "/images/items/Blue phone.png",
+                        "chest_opened_img": "/images/items/Blue phone off.png",
+                        "visibility_rules":["Cellphone setting"],
+                        "access_rules": ["Easy, Attack", "Normal", "Hard"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Blue Cellphone Pipo Camera Tutorial - Redux - Hide-n-Seek Forest",
+                        "chest_unopened_img": "/images/items/Blue phone.png",
+                        "chest_opened_img": "/images/items/Blue phone off.png",
+                        "visibility_rules":["Cellphone setting"],
+                        "access_rules": ["Easy, Attack", "Normal", "Hard"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Forest",
+                    "x": 870,
+                    "y": 243
+                }
+                ]
+            },
+            {
+                "name": "Blue Cellphone",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                "Net, $canAccessChannel|1"
+                ],
+                "sections": [
+                {
+                "name": "Blue Cellphone Jacket Tutorial - Hide-n-Seek Forest",
+                "chest_unopened_img": "/images/items/Blue phone.png",
+                "chest_opened_img": "/images/items/Blue phone off.png",
+                "visibility_rules":["Cellphone setting"],
+                "access_rules": ["Easy, Attack", "Normal", "Hard"],
+                "item_count": 1
+                }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Forest House Yard",
+                    "x": 458,
+                    "y": 695
+                }
+                ]
+            },
+            {
+                "name": "Box & Wolf Monkey",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                "Net, $canAccessChannel|1"
+                ],
+                "sections": [
+                {
+                    "name": "Salubon - Hide-n-Seek Forest",
+                    "access_rules": [
+                    "Easy, Attack, Radar", "Normal, Hit", "Hard"
+                    ]            ,
+                    "item_count": 1
+                },
+                {
+                    "name": "Wolfmon - Hide-n-Seek Forest",
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Forest House Yard",
+                    "x": 529,
+                    "y": 396
+                }
+                ]
+            },
+            {
+                "name": "Well Monkey",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                "Net, $canAccessChannel|1"
+                ],
+                "sections": [
+                {
+                    "name": "Ukiko - Hide-n-Seek Forest",
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Forest House Yard",
+                    "x": 731,
+                    "y": 308
+                }
+                ]
+            },
+            {
+                "name": "Hide-n-Seek Forest House",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                    "Net, Easy, Attack, $canAccessChannel|1", "Net, Normal, Hit, $canAccessChannel|1", "Net, Hard, $canAccessChannel|1"
+                ],
+                "sections":[
+                {
+                    "name": "Lambymon - Hide-n-Seek Forest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Kreemon - Hide-n-Seek Forest",
+                    "access_rules":[
+                    "Attack"
+                    ],
+                    "item_count": 1
+                },
+                {
+                    "name": "Ukkilei - Hide-n-Seek Forest",
+                    "access_rules":[
+                    "Easy, Attack", "Normal, Hit", "Hard"
+                    ],
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Forest House",
+                    "x": 575,
+                    "y": 595
+                }
+                ]
+            },
+            {
+                "name": "Hide-n-Seek Forest break room",
+                "chest_unopened_img": "/images/items/Monkey.png",
+                "chest_opened_img": "/images/items/Monkey Caught.png",
+                "access_rules": [
+                "Net, Monkey, $canAccessChannel|1"
+                ],
+                "sections":[
+                {
+                    "name": "King Goat - Hide-n-Seek Forest",
+                    "access_rules": [
+                "Monkey"
+                ],
+                    "item_count": 1
+                },
+                {
+                    "name": "Marukichi - Hide-n-Seek Forest",
+                    "access_rules": [
+                "Monkey"
+                ],
+                    "item_count": 1
+                },
+                {
+                    "name": "Kikimon - Hide-n-Seek Forest",
+                    "access_rules": [
+                "Monkey"
+                ],
+                    "item_count": 1
+                },
+                {
+                    "name": "Kominato - Hide-n-Seek Forest",
+                    "access_rules": [
+                "Monkey"
+                ],
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                {
+                    "map": "Hide-n-Seek Break Room",
+                    "x": 536,
+                    "y": 413
+                }
+                ]
+            }
+        ]
+    }
+]

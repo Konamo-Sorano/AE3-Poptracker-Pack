@@ -103,6 +103,49 @@
                     "type": "map",
                     "maps": ["Cathederal"]
                   }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Break Room Seaside"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Hide-n-Seek",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "Hide-n-Seek Forest",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Hide-n-Seek Forest"]
+                  }
+                },
+                {
+                  "title": "House Yard",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Hide-n-Seek Forest House Yard"]
+                  }
+                },
+                {
+                  "title": "House",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Hide-n-Seek Forest House"]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Hide-n-Seek Break Room"]
+                  }
                 }
               ]
             }

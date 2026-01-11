@@ -1,0 +1,145 @@
+
+        
+        
+        {
+        "name": "Saru-mon's Castle",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|2"
+        ],
+        "sections": [
+          {
+            "name": "Ukkido - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Guard - Saru-mon's Castle",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkinee - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monderella - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki-ichi - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Saru-mon - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monga - Saru-mon's Castle",
+            "access_rules":[
+              "Easy, Shoot", "Nromal, Shoot","Normal, Glide", "Hard, Shoot", "Hard, Glide"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkiton - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "King Leo - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkii - Saru-mon's Castle",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Saluto - Saru-mon's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "King's Double - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Mattsun - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Miya - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Mon San - Saru-mon's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "SAL-1000 - Saru-mon's Castle",
+            "visibility_rules": ["Password"],
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Block Shoving Tutorial - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Morph Energy Tutorial - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Morph Jumping Reminder - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone How can we avoid the flames? - Saru-mon's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 310
+          }
+        ]
+      },

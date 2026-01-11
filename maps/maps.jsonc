@@ -17,5 +17,35 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/seaside resort cathederal.png"
+  },
+  {
+    "name": "Break Room Seaside",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Break Room Seaside.png"
+  },
+  {
+    "name": "Hide-n-Seek Forest",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Hide_n_Seek_Forest.png"
+  },
+  {
+    "name": "Hide-n-Seek Forest House",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Hide-n-Seek_Forest_House.png"
+  },
+  {
+    "name": "Hide-n-Seek Forest House Yard",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Hide-n-Seek_House_yard.png"
+  },
+  {
+    "name": "Hide-n-Seek Break Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Break Room Hide-n-Seek.png"
   }
 ]

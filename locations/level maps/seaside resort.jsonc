@@ -3,21 +3,13 @@
     "name": "Seaside Resort",
     "children": [
       {
-        "name": "Seaside Resort",
+        "name": "Seaside Resort Start",
         "chest_unopened_img": "/images/items/Monkey.png",
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           "Net, $canAccessChannel|0"
         ],
-        "sections": [
-          {
-            "name": "Nessal - Seaside Resort",
-            "item_count": 1
-          },
-          {
-            "name": "Ukki Pia - Seaside Resort",
-            "item_count": 1
-          },
+        "sections":[
           {
             "name": "Ukkitan - Seaside Resort",
             "item_count": 1
@@ -28,12 +20,54 @@
             "chest_opened_img": "/images/items/Red phone off.png",
             "visibility_rules":["Cellphone setting"],
             "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Seaside Resort",
+            "x": 988,
+            "y": 718
+          }
+        ]
+      },
+      {
+        "name": "Seaside Resort Middle",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          "Net, $canAccessChannel|0"
+        ],
+        "sections":[
+          {
+            "name": "Ukki Pia - Seaside Resort",
+            "item_count": 1
           },
           {
             "name": "Blue Cellphone Cookies Tutorial - Seaside Resort",
             "chest_unopened_img": "/images/items/Blue phone.png",
             "chest_opened_img": "/images/items/Blue phone off.png",
             "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Seaside Resort",
+            "x": 700,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Seaside Resort",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          "Net, $canAccessChannel|0"
+        ],
+        "sections": [
+          {
+            "name": "Nessal - Seaside Resort",
             "item_count": 1
           },
           {
@@ -47,17 +81,17 @@
         "map_locations": [
           {
             "map": "Seaside Resort",
-            "x": 673,
-            "y": 362
+            "x": 480,
+            "y": 230
           }
         ]
       },
       {
-        "name": "Seaside Resort",
+        "name": "Cathederal Door",
         "chest_unopened_img": "/images/items/Monkey.png",
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
-          "Net, $canAccessChannel|0"
+          "Net, Hard, $canAccessChannel|0", "Net, Expert, $canAccessChannel|0", "Net, Easy, Attack, $canAccessChannel|0", "Net, Normal, Hit, $canAccessChannel|0"
         ],
         "sections": [
           {
@@ -125,7 +159,7 @@
         "chest_unopened_img": "/images/items/Monkey.png",
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
-          "Net, $canAccessChannel|0"
+          "Net, Monkey, $canAccessChannel|0"
         ],
         "sections": [
           {
@@ -156,7 +190,14 @@
           ],
             "item_count": 1
           }
-        ]
+        ],
+        "map_locations": [
+          {
+            "map": "Break Room Seaside",
+            "x": 522,
+            "y": 384
+          }
+        ]  
       }
     ]
   }
