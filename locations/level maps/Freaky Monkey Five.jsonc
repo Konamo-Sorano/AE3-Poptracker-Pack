@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Freaky Monkey Five",
+    "children": [ 
+      {
+        "name": "Monkey White Fight!",
+        "chest_unopened_img": "/images/items/White Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|3"
+        ],
+        "sections": [
+          {
+            "name": "Monkey White",
+            "access_rules":[
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Monkey White",
+            "x": 531,
+            "y": 477
+          }
+        ]
+      },
+      {
+        "name": "Monkey Blue Fight!",
+        "chest_unopened_img": "/images/items/Blue Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|8"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Blue",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Monkey Blue",
+            "x": 656,
+            "y": 415
+          }
+        ]
+      },
+      {
+        "name": "Monkey Yellow Fight!",
+        "chest_unopened_img": "/images/items/Yellow Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|12"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Yellow",
+            "access_rules":[
+              "Easy, Ninja", "Normal, Hit", "Hard"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Monkey Yellow",
+            "x": 752,
+            "y": 398
+          }
+        ]
+      },
+      {
+        "name": "Monkey Pink Fight!",
+        "chest_unopened_img": "/images/items/Pink Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|17"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Pink",
+            "access_rules":[
+              "Morph_No_Monkey", "Hit"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 1170,
+            "y": 480
+          }
+        ]
+      },
+      {
+        "name": "Monkey Red Fight!",
+        "chest_unopened_img": "/images/items/Red Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|21"
+        ],
+        "sections": [
+          {
+            "name": "Monkey Red",
+            "access_rules":[
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 1170,
+            "y": 650
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -47,5 +47,59 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Break Room Hide-n-Seek.png"
+  },
+  {
+    "name": "Saru-mon's Castle",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Saru-mon's Castle.png"
+  },
+  {
+    "name": "Saru-mon's Castle Sword Chamber",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Saru-mon's Castle Sword Chamber.png"
+  },
+  {
+    "name": "Saru-mon's Castle Front Yard",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Saru-mon's Castle front Yard.png"
+  },
+  {
+    "name": "Saru-mon's Castle Inside",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Saru-mon's Castle Inside.png"
+  },
+  {
+    "name": "Saru-mon's Castle Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Saru-mon's Castle Room.png"
+  },
+  {
+    "name": "Saru-mon's Castle Break Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Saru-mon's Castle Break Room.png"
+  },
+  {
+    "name": "Monkey White",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Monkey White .png"
+  },
+  {
+    "name": "Monkey Blue",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Monkey Blue.png"
+  },
+  {
+    "name": "Monkey Yellow",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Monkey Yellow.png"
   }
 ]

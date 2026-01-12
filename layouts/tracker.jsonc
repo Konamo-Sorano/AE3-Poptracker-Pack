@@ -149,6 +149,85 @@
                 }
               ]
             }
+          },
+          {
+            "title": "Saru-mon's Castle",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "Front Gate",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Saru-mon's Castle"]
+                  }
+                },
+                {
+                  "title": "Sword Chamber",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Saru-mon's Castle Sword Chamber"]
+                  }
+                },
+                {
+                  "title": "Front Yard",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Saru-mon's Castle Front Yard"]
+                  }
+                },
+                {
+                  "title": "Inside of the Castle",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Saru-mon's Castle Inside"]
+                  }
+                },
+                {
+                  "title": "King Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Saru-mon's Castle Room"]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Saru-mon's Castle Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+            {
+            "title": "Bosses",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "Monkey White Fight!",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Monkey White"]
+                  }
+                },
+                {
+                  "title": "Monkey Blue Fight!",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Monkey Blue"]
+                  }
+                },
+                {
+                  "title": "Monkey Yellow Fight!",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Monkey Yellow"]
+                  }
+                }
+              ]
+            }
           }
         ]
         }
