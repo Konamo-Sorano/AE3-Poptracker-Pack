@@ -200,6 +200,49 @@
               ]
             }
           },
+          {
+            "title": "The Big City",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "Street",
+                  "content": {
+                    "type": "map",
+                    "maps": ["The Big City"]
+                  }
+                },
+                {
+                  "title": "Theater",
+                  "content": {
+                    "type": "map",
+                    "maps": ["The Big City Theater"]
+                  }
+                },
+                {
+                  "title": "Fliming Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["The Big City Filming Room"]
+                  }
+                },
+                {
+                  "title": "Stadium",
+                  "content": {
+                    "type": "map",
+                    "maps": ["The Big City Staduim"]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["The Big City Break Room"]
+                  }
+                },
+              ]
+            }
+          },
             {
             "title": "Bosses",
             "content": {

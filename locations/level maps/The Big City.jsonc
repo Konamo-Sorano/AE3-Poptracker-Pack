@@ -1,0 +1,280 @@
+[
+  {
+    "name": "The Big City",
+    "children": [    
+    {
+        "name": "The Road",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukima - The Big City",
+            "access_rules":[
+                "Easy, Dash", "Normal", "Hard"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "(Car) Ukki Mattan - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "(Car) Bemucho - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Super Hoop Reminder - The Big City",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City",
+            "x": 4240,
+            "y": 1237
+          }
+        ]
+    },
+    {
+        "name": "Cellphone",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Red Cellphone Sports Car Tutorial - The Big City",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City",
+            "x": 2821,
+            "y": 951
+          }
+        ]
+    },
+    {
+        "name": "Piller next to train?",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Monbolo - The Big City",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City",
+            "x": 291,
+            "y": 979
+          }
+        ]
+    },
+    {
+        "name": "Phone Booth",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Pipo Mondy - The Big City",
+            "access_rules":[
+              "Easy, Attack, Dash", "Normal, Dash", "Hard"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City",
+            "x": 1331,
+            "y": 3267
+          }
+        ]
+    },
+    {
+        "name": "Basket Ball Field",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Nader - The Big City",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City",
+            "x": 3789,
+            "y": 1870
+          }
+        ]
+    },
+    {
+        "name": "The Theater",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Ukkilun - The Big City",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City Theater",
+            "x": 658,
+            "y": 525
+          }
+        ]
+    },
+    {
+        "name": "Filming Room",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Sabu-Sabu - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ginjiro - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Kichiemon - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - The Big City",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City Filming Room",
+            "x": 696,
+            "y": 543
+          }
+        ]
+    },
+    {
+        "name": "Stadium",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Bully-mon - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Joe - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Tamaki - The Big City",
+            "item_count": 1
+          },
+          {
+            "name": "Mickey Oou - The Big City",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City Staduim",
+            "x": 681,
+            "y": 599
+          }
+        ]
+    },
+    {
+        "name": "Break Room",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|4"
+        ],
+        "sections": [
+          {
+            "name": "Sally Kokoroe - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Monkey Manager - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Supervisor Chimp - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Boss Ape - The Big City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "The Big City Break Room",
+            "x": 663,
+            "y": 461
+          }
+        ]
+      }
+    ]
+  }
+]

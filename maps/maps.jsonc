@@ -91,6 +91,36 @@
     "img": "images/maps/Monkey White .png"
   },
   {
+    "name": "The Big City",
+    "location_size": 175,
+    "location_border_thickness": 4,
+    "img": "images/maps/city track.png"
+  },
+  {
+    "name": "The Big City Theater",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/The Big City Theater.png"
+  },
+  {
+    "name": "The Big City Filming Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/The Big City Filming Room.png"
+  },
+  {
+    "name": "The Big City Staduim",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/The Big City Stadium.png"
+  },
+  {
+    "name": "The Big City Break Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/The Big City Break Room.png"
+  },
+  {
     "name": "Monkey Blue",
     "location_size": 48,
     "location_border_thickness": 4,
