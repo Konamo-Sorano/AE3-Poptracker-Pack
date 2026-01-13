@@ -164,7 +164,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net, $canAccessChannel|4"
+          "Net, Easy, Attack, $canAccessChannel|4", "Net, Normal, $canAccessChannel|4", "Net, Hard, $canAccessChannel|4"
         ],
         "sections": [
           {
@@ -201,7 +201,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net, $canAccessChannel|4"
+          "Net, Dash, Car, $canAccessChannel|4"
         ],
         "sections": [
           {
@@ -235,7 +235,7 @@
         "chest_opened_img": "/images/items/Monkey Caught.png",
         "access_rules": [
           //read as: progressive_toggle_2 and has more than 4 consumable
-          "Net, $canAccessChannel|4"
+          "Net, Easy, Attack, $canAccessChannel|4", "Net, Normal, $canAccessChannel|4", "Net, Hard, $canAccessChannel|4"
         ],
         "sections": [
           {

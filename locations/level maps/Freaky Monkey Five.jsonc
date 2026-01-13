@@ -89,16 +89,16 @@
           {
             "name": "Monkey Pink",
             "access_rules":[
-              "Morph_No_Monkey", "Hit"
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard"
             ],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 1170,
-            "y": 480
+            "map": "Monkey Pink",
+            "x": 526,
+            "y": 284
           }
         ]
       },
@@ -114,16 +114,16 @@
           {
             "name": "Monkey Red",
             "access_rules":[
-              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard, Hit"
+              "Easy, Morph_No_Monkey", "Normal, Hit", "Hard"
             ],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "",
-            "x": 1170,
-            "y": 650
+            "map": "Monkey Red",
+            "x": 512,
+            "y": 346
           }
         ]
       }

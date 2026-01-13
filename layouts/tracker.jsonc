@@ -220,7 +220,7 @@
                   }
                 },
                 {
-                  "title": "Fliming Room",
+                  "title": "Bank Room",
                   "content": {
                     "type": "map",
                     "maps": ["The Big City Filming Room"]
@@ -267,6 +267,20 @@
                   "content": {
                     "type": "map",
                     "maps": ["Monkey Yellow"]
+                  }
+                },
+                {
+                  "title": "Monkey Pink Fight!",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Monkey Pink"]
+                  }
+                },
+                {
+                  "title": "Monkey Red Fight!",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Monkey Red"]
                   }
                 }
               ]

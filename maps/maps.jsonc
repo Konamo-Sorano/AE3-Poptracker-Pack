@@ -131,5 +131,17 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Monkey Yellow.png"
+  },
+  {
+    "name": "Monkey Pink",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Monkey Pink.png"
+  },
+  {
+    "name": "Monkey Red",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Monkey Red.png"
   }
 ]
