@@ -36,6 +36,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddLocations("locations/level maps/Hide-n-Seek.jsonc")
     Tracker:AddLocations("locations/level maps/Saru-mon's Castle.jsonc")
     Tracker:AddLocations("locations/level maps/The Big City.jsonc")
+    Tracker:AddLocations("locations/level maps/Specter TV Studio.jsonc")
     Tracker:AddLocations("locations/level maps/Freaky Monkey Five.jsonc")
 end
 

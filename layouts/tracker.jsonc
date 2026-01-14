@@ -239,7 +239,64 @@
                     "type": "map",
                     "maps": ["The Big City Break Room"]
                   }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Specter TV Studio",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "Hub",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio"]
+                  }
                 },
+                {
+                  "title": "Blue Door Filming sites",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio Blue Door 1", "Specter TV Studio Blue Door 2"]
+                  }
+                },
+                {
+                  "title": "Robot Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio Robot Room"]
+                  }
+                },
+                {
+                  "title": "Sideway City",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio Sideways City"]
+                  }
+                },
+                {
+                  "title": "Training Film",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio Training"]
+                  }
+                },
+                {
+                  "title": "Space",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio Space"]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": ["Specter TV Studio Break Room"]
+                  }
+                }
               ]
             }
           },

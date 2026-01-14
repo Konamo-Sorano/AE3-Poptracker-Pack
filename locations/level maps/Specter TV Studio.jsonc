@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Specter TV Studio",
+    "children": [ 
+    {
+        "name": "Specter TV Studio Hub",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Yan - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Black Pants Monkeys Tutorial - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio",
+            "x": 159,
+            "y": 788
+          }
+        ]
+    },
+    {
+        "name": "Specter TV Studio ...",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Ukkipuss - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Slingback Shooter Reminder - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Blue Door 1",
+            "x": 329,
+            "y": 546
+          }
+        ]
+    },
+    {
+        "name": "Specter TV Studio Blue Door Section 1",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Minoh - Specter TV Studio",
+            "access_rules":[
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Glide", "Hard, Shoot", "Hard, Glide"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Monta - Specter TV Studio",
+            "access_rules":[
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Glide", "Hard, Shoot", "Hard, Glide"
+            ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Blue Door 2",
+            "x": 922,
+            "y": 233
+          }
+        ]
+    },
+    {
+        "name": "Specter TV Studio Blue Door Section 2",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Chippino - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Gimminey - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Hant - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Robot Tutorial - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Robot Room",
+            "x": 667,
+            "y": 675
+          }
+        ]
+    },
+    {
+        "name": "Specter TV Studio Blue Door Section 3",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Bananamon - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Mokinza - Specter TV Studio",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Sideways City",
+            "x": 612,
+            "y": 462
+          }
+        ]
+    },
+    {
+        "name": "Specter TV Studio Red Door Section 1",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Lee Ukki - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkida Jiro - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Sal Ukindo - Specter TV Studio",
+            "item_count": 1
+          },          
+          {
+            "name": "Pipo Camera - Specter TV Studio",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Training",
+            "x": 596,
+            "y": 556
+          }
+        ]
+    },
+    {
+        "name": "Specter TV Studio Red Door Section 2",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Pipopam - Specter TV Studio",
+            "item_count": 1
+          },
+          {
+            "name": "Monpii Ukkichi - Specter TV Studio",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Gabimon - Specter TV Studio",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Space",
+            "x": 627,
+            "y": 542
+          }
+        ]
+      },
+      {
+        "name": "Specter TV Studio Break Room",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|5"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Paul - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Sally Mon - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Bonly - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Monly - Specter TV Studio",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Specter TV Studio Break Room",
+            "x": 668,
+            "y": 466
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -121,6 +121,54 @@
     "img": "images/maps/The Big City Break Room.png"
   },
   {
+    "name": "Specter TV Studio",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV studio.png"
+  },
+  {
+    "name": "Specter TV Studio Blue Door 1",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Blue Door.png"
+  },
+  {
+    "name": "Specter TV Studio Blue Door 2",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Blue Door 2.png"
+  },
+  {
+    "name": "Specter TV Studio Robot Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Robot.png"
+  },
+  {
+    "name": "Specter TV Studio Sideways City",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Sideways City.png"
+  },
+  {
+    "name": "Specter TV Studio Training",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Training.png"
+  },
+  {
+    "name": "Specter TV Studio Space",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Space.png"
+  },
+  {
+    "name": "Specter TV Studio Break Room",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Specter TV Studio Break Room.png"
+  },
+  {
     "name": "Monkey Blue",
     "location_size": 48,
     "location_border_thickness": 4,
