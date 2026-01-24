@@ -1,0 +1,135 @@
+{
+        "name": "Arctic Wonderland",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|15"
+        ],
+        "sections": [
+          {
+            "name": "Bikupuri - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkisu - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ami - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Balio - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kimkon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkina - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Kushachin - Arctic Wonderland",
+            "access_rules":[
+              "Attack"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Malikko - Arctic Wonderland",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Bolikko - Arctic Wonderland",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Iceymon - Arctic Wonderland",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mokkidon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Jolly-mon - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Hikkori - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Rammy - Arctic Wonderland",
+            "item_count": 1
+          },
+          {
+            "name": "Monkino - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Kyam - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Kappino - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Kris Krimon - Arctic Wonderland",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Arctic Wonderland",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Freezing Water Tutorial - Arctic Wonderland",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Boat Tutorial - Redux - Arctic Wonderland",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 670
+          }
+        ]
+      }

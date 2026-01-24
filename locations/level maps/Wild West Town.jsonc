@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Wild West Town",
+    "children": [ 
+        {
+        "name": "Wild West Town start",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+          {
+            "name": "Morrey - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Jomi - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Tammy - Wild West Town",
+            "item_count": 1
+          },                  
+          {
+            "name": "Red Cellphone Wild West Kid Reminder - Wild West Town",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 810
+          }
+        ]
+        },
+        {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 810
+          }
+        ]
+        },
+        {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 810
+          }
+        ]
+        },
+        {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 810
+          }
+        ]
+        },
+        {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 810
+          }
+        ]
+        },
+        {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 810
+          }
+        ]
+        },
+        {
+        "name": "Wild West Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|7"
+        ],
+        "sections": [
+          {
+            "name": "Ukki Gigolo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Monboron - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "West Ukki - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Lucky Woo - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pamela - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Monber - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Gaukichi - Wild West Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Shaluron - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Jay Mohn - Wild West Town",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Normal, Flyer", "Hard, Hit", "Hard, Flyer"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Monkee Joe - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Saru Chison - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Jaja Jamo - Wild West Town",
+            "access_rules":[
+              "Easy, Attack", "Normal, Attack", "Normal, Hoop", "Hard, Attack", "Hard, Hoop"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Chammy Mo - Wild West Town",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Golozo - Wild West Town",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Golon Moe - Wild West Town",
+            "access_rules":[
+              "Easy, Morph_No_Monkey", "Normal, Attack", "Hard, Attack"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkia Munbo - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Mon Johny - Wild West Town",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Wild West Town",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Quick Morph Tutorial - Wild West Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Rotating Handle Tutorial - Ranged Activation - Wild West Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 70,
+            "y": 810
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+{
+        "name": "The Hot Springs",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|9"
+        ],
+        "sections": [
+          {
+            "name": "Chabimon - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ichiro - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Kiichiro - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Saru Sam - The Hot Springs",
+            "access_rules":[
+              "Attack"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Michiyan - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Tome-san - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki-emon - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Moki - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Ukimi - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Domobeh - The Hot Springs",
+            "access_rules":[
+              "Easy, Swim", "Normal, Swim", "Normal, Catch_long", "Hard, Swim", "Hard, Catch_long"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Sam-san - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Donkichi - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Minokichi - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tatabo - The Hot Springs",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Michiro - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Gen-san - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Kimisan - The Hot Springs",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mujakin - The Hot Springs",
+            "access_rules":[
+              "Easy, Shoot, Swim", "Normal, Swim", "Normal, Catch_long", "Hard, Swim", "Hard, Catch_long"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mihachin - The Hot Springs",
+            "item_count": 1
+          },
+          {
+            "name": "Fuji-chan - The Hot Springs",
+            "access_rules":[
+              "Easy, Shoot", "Nromal, Shoot", "Hard, Shoot", "Hard, Ninja"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - The Hot Springs",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone RC Car Reminder - The Hot Springs",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Red Pants Monkeys Tutorial - The Hot Springs",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Boat Tutorial - The Hot Springs",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 70
+          }
+        ]
+      }

@@ -1,0 +1,149 @@
+{
+        "name": "Winterville",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|10"
+        ],
+        "sections": [
+          {
+            "name": "Kimisuke - Winterville",
+            "access_rules":[
+              "Shoot"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Konzo - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Saburota - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Mitsuro - Winterville",
+            "access_rules":[
+              "Shoot"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Takuo - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Konkichi - Winterville",
+            "access_rules":[
+              "Easy, Attack, Radar", "Normal, Radar", "Hard, Rader"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Fumikichi - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Pipotron Yellow - Winterville",
+            "visibility_rules": ["Password"],
+            "access_rules":[
+              "Easy, Attack", "Normal, Dash", "Hard, Dash"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Tamubeh - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Kimikichi - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Gonbeh - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Shimmy - Winterville",
+            "visibility_rules": ["Password"],
+            "item_count": 1
+          },
+          {
+            "name": "Mako - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Miko - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Tamio - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Jeitan - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Jii - Winterville",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Akki-bon - Winterville",
+            "item_count": 1
+          },
+          {
+            "name": "Kimi-chan - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Sae-chan - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tassan - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tomokun - Winterville",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Winterville",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Tank Tutorial - Winterville",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 190
+          }
+        ]
+      }

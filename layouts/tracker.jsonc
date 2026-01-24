@@ -300,6 +300,861 @@
               ]
             }
           },
+          {
+            "title": "Bootown",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Wild West Town",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "The Hot Springs",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Winterville",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "The Emperor's Castle",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Mount Amazing",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Toytown",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Arctic Wonderland",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Mirage Town",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Eversummer Island",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Airplane Squadron",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Kung-Fu Alley",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Midnight Bay",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [" Break Room"]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Tomoki City",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Space-TV Fortress",
+            "content": {
+              "type": "tabbed",
+              "tabs": [
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [" "]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                },
+                {
+                  "title": "Break Room",
+                  "content": {
+                    "type": "map",
+                    "maps": [""]
+                  }
+                }
+              ]
+            }
+          },
             {
             "title": "Bosses",
             "content": {

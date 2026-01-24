@@ -1,0 +1,208 @@
+{
+        "name": "Tomoki City",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|23"
+        ],
+        "sections": [
+          {
+            "name": "Kichibeh - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Bonchicchi - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mikibon - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "DJ Tamo - Tomoki City",
+            "access_rules":[
+              "Dash"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkinaka - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ukkine - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Pon Jiro - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Chimpy - Tomoki City",
+            "access_rules":[
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kajitan - Tomoki City",
+            "access_rules":[
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Uka Uka - Tomoki City",
+            "access_rules":[
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mil Mil - Tomoki City",
+            "access_rules":[
+              "Easy, Fighter", "Easy, Ninja", "Normal Morph_No_Monkey", "Hard, Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Taimon - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Goro-san - Tomoki City",
+            "access_rules":[
+              "Knight"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Reiji - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Ponta - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Tomio - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Gario - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mitsuo - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "DJ Pari - Tomoki City",
+            "access_rules":[
+              "Dash"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Ron - Tomoki City",
+            "access_rules":[
+              "Fighter"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mikita - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Riley - Tomoki City",
+            "access_rules":[
+              "Dancer"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "SAL-13 - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "SAL-12 - Tomoki City",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Tomu - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Breadacus - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkigoro - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukiji - Tomoki City",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tomimon - Tomoki City",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Tomoki City",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Cyber Ace Reminder - Tomoki City",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 550
+          }
+        ]
+      }

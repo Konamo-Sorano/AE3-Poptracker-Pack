@@ -1,0 +1,160 @@
+{
+        "name": "Toytown",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|14"
+        ],
+        "sections": [
+          {
+            "name": "Pikkori - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "TalUkki - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Pinkino - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Mota - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Verna - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Papa - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Bon Mama - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Kalkin - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Pakun - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki X - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Mon Gareji - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Shouji - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Woo Makka - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Monto - Toytown",
+            "access_rules":[
+              "Easy, Shoot", "Nromal, Shoot", "Normal, Ninja", "Hard, Shoot", "Hard, Ninja", "Hard, Flyer"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Mokitani - Toytown",
+            "access_rules":[
+              "Car"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Namigo - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Pipotron Red - Toytown",
+            "visibility_rules": ["Password"],
+            "access_rules":[
+              "Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Master Loafy - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Golonero - Toytown",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kocho - Toytown",
+            "item_count": 1
+          },
+          {
+            "name": "Tam Konta - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tam Mimiko - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tam Papa - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Tam Mama - Toytown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Toytown",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Sports Car Tutorial - Redux - Toytown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Robot Tutorial - Redux - Toytown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 550
+          }
+        ]
+      }

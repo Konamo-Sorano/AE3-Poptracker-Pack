@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Bootown",
+    "children": [
+        {
+            "name": "Bootown Pond",
+            "chest_unopened_img": "/images/items/Monkey.png",
+            "chest_opened_img": "/images/items/Monkey Caught.png",
+            "access_rules": [
+            //read as: progressive_toggle_2 and has more than 4 consumable
+            "Net, $canAccessChannel|6"
+            ],
+            "sections": [
+            {
+                "name": "Monkichiro - Bootown",
+                "access_rules":[
+                "Swim"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Leomon - Bootown",
+                "item_count": 1
+            },
+            {
+                "name": "Red Cellphone Water Net Reminder - Bootown",
+                "chest_unopened_img": "/images/items/Red phone.png",
+                "chest_opened_img": "/images/items/Red phone off.png",
+                "visibility_rules":["Cellphone setting"],
+                "item_count": 1
+            }
+            ],
+            "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+        },
+        {
+            "name": "Bootown Ferris Wheel",
+            "chest_unopened_img": "/images/items/Monkey.png",
+            "chest_opened_img": "/images/items/Monkey Caught.png",
+            "access_rules": [
+            //read as: progressive_toggle_2 and has more than 4 consumable
+            "Net, $canAccessChannel|6"
+            ],
+            "sections": [
+            {
+                "name": "Uikkun - Bootown",
+                "access_rules":[
+                "Easy, Attack", "Normal, Hit", "Hard, Hit"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Take Ukita - Bootown",
+                "item_count": 1
+            },
+            {
+            "name": "Blue Cellphone Morph Energy Tutorial - Racking Up Duration - Bootown",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+            }
+            ],
+            "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+        },
+        {
+            "name": "Bootown Tent",
+            "chest_unopened_img": "/images/items/Monkey.png",
+            "chest_opened_img": "/images/items/Monkey Caught.png",
+            "access_rules": [
+            //read as: progressive_toggle_2 and has more than 4 consumable
+            "Net, $canAccessChannel|6"
+            ],
+            "sections": [
+            {
+                "name": "Bonbon - Bootown",
+                "access_rules":[
+                "Easy, Attack", "Normal, Hit", "Hard, Hit"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "ChiChi - Bootown",
+                "access_rules":[
+                "Easy, Attack", "Normal, Hit", "Hard, Hit"
+                ],
+                "item_count": 1
+            }
+            ],
+            "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+        },
+        {
+            "name": "Bootown Pumbkin Park",
+            "chest_unopened_img": "/images/items/Monkey.png",
+            "chest_opened_img": "/images/items/Monkey Caught.png",
+            "access_rules": [
+            //read as: progressive_toggle_2 and has more than 4 consumable
+            "Net, $canAccessChannel|6"
+            ],
+            "sections": [
+            {
+                "name": "Mumpkin - Bootown",
+                "access_rules":[
+                "Easy, Attack", "Normal, Hit", "Hard, Hit"
+                ],
+                "item_count": 1
+            }
+            ],
+            "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+        },
+        {
+            "name": "Bootown Lake",
+            "chest_unopened_img": "/images/items/Monkey.png",
+            "chest_opened_img": "/images/items/Monkey Caught.png",
+            "access_rules": [
+            //read as: progressive_toggle_2 and has more than 4 consumable
+            "Net, $canAccessChannel|6"
+            ],
+            "sections": [
+            
+            {
+            "name": "Ukkison - Bootown",
+            "item_count": 1
+            },
+            {
+                "name": "Ukkisuke - Bootown",
+                "item_count": 1
+            },
+            {
+                "name": "Chibi Sally - Bootown",
+                "item_count": 1
+            },
+            {
+                "name": "Pipo Camera - Bootown",
+                "chest_unopened_img": "/images/items/Pipo camera.png",
+                "chest_opened_img": "/images/items/Pipo camera done.png",
+                "visibility_rules": ["Camera setting"],
+                "item_count": 1
+            },
+            {
+                "name": "Blue Cellphone Morph Gauge and Water Tutorial - Bootown",
+                "chest_unopened_img": "/images/items/Blue phone.png",
+                "chest_opened_img": "/images/items/Blue phone off.png",
+                "visibility_rules":["Cellphone setting"],
+                "item_count": 1
+            }
+            ],
+            "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+        },
+        {
+            "name": "Bootown The Mansion",
+            "chest_unopened_img": "/images/items/Monkey.png",
+            "chest_opened_img": "/images/items/Monkey Caught.png",
+            "access_rules": [
+            //read as: progressive_toggle_2 and has more than 4 consumable
+            "Net, $canAccessChannel|6"
+            ],
+            "sections": [
+            {
+                "name": "Saruhotep - Bootown",
+                "item_count": 1
+            },
+            {
+                "name": "Ukkito - Bootown",
+                "access_rules":[
+                "Easy, Attack", "Normal, Hit", "Hard, Hit"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Monzally - Bootown",
+                "item_count": 1
+            },
+            {
+                "name": "Ukkiami - Bootown",
+                "access_rules":[
+                "Easy, Attack", "Normal, Hit", "Hard, Hit"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Red Cellphone Climbing Tutorial - Bootown",
+                "chest_unopened_img": "/images/items/Red phone.png",
+                "chest_opened_img": "/images/items/Red phone off.png",
+                "visibility_rules":["Cellphone setting"],
+                "item_count": 1
+            }
+            ],
+            "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+        },
+        {
+        "name": "Bootown Break Room",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|6"
+        ],
+        "sections": [
+          {
+            "name": "Monjan - Bootown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Nattchan - Bootown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Kabochin - Bootown",
+            
+            "access_rules":[
+              "Easy, Monkey, Attack", "Normal, Monkey, Hit", "Hard, Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mon - Bootown",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "",
+            "x": 70,
+            "y": 670
+          }
+        ]
+      }
+    ]
+  }
+]

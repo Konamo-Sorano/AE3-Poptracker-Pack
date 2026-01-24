@@ -1,0 +1,159 @@
+{
+        "name": "Mirage Town",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|16"
+        ],
+        "sections": [
+          {
+            "name": "Scorpi-mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Minimon - Mirage Town",
+            "access_rules":[
+              "Easy, Dancer", "Normal, Dancer", "Hard, Dancer", "Hard, Shot, Dash"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Moontero - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Son - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Jeff - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Saru Maru - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Genghis Mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Cup-o-mon - Mirage Town",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Nijal - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Apey Jones - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Golden Mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mamba - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Crazy 'ol Mon - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Shamila - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Tamiyanya - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Salteenz - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Dancing Mia - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Miccho - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Kisha - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Gimuccho - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Wojin - Mirage Town",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Princess Judy - Mirage Town",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Mirage Town",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Genie Dancer Reminder - Mirage Town",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Genie Dancer Reminder - Special Ability - Mirage Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Long Horizontal Rods Tutorial - Mirage Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Jars that only the Genie can enter - Mirage Town",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 810
+          }
+        ]
+      }

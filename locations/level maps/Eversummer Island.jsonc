@@ -1,0 +1,155 @@
+{
+        "name": "Eversummer Island",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|18"
+        ],
+        "sections": [
+          {
+            "name": "Pincher-mon - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Salumani - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Salulu - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Baku - Eversummer Island",
+            "access_rules":[
+              "Easy, Shoot, Swim", "Normal, Shoot, Swim", "Normal, Ninja", "Hard, Shoot, Swim", "Hard, Ninja", "Hard, Ace"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Mat - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Salunch - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Mong Popo - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Mohcha - Eversummer Island",
+            "access_rules":[
+              "Car"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kamcha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Bimocha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gimchin - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Kamaccha - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gyamu - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Tartan - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Takumon - Eversummer Island",
+            "access_rules":[
+              "Easy, Swim", "Normal, Swim", "Normal, Ninja", "Normal, Ace", "Normal, Wild", "Hard, Swim", "Hard, Ninja", "Hard, Ace", "Hard, Wild",  "Hard, Club, Fighter", "Hard, Car, Fighter", "Hard, Shoot, Fighter"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Ether - Eversummer Island",
+            "access_rules":[
+              "Easy, Swim", "Normal, Swim", "Hard, Swim", "Hard, Ace"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Molzone - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Chappio - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Pomoah - Eversummer Island",
+            "item_count": 1
+          },
+          {
+            "name": "Gucchai - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Makaccho - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Gamaran - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Larry - Eversummer Island",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Eversummer Island",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Gadget Fetch and Spinning Air Attack Tutorial - Eversummer Island",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Water Net Reminder - Redux - Eversummer Island",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 70
+          }
+        ]
+      }

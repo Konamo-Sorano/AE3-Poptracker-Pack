@@ -1,0 +1,248 @@
+{
+        "name": "Space-TV Fortress",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|25"
+        ],
+        "sections": [
+          {
+            "name": "Poko - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Gamuo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Mukikko - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Moto Ukki - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Jimi Jami - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Genbo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Twin Mitty - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Uttey - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Emma - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Dokicchi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Kamicchi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Monda - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Porokko - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Zonelin - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Tamano - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Nelson - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Koloneh - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Miluchy - Space-TV Fortress",
+            "access_rules":[
+              "Shoot", "Fly"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Robert - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Fronson - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Demekin - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Kikuyoshi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Freet - Space-TV Fortress",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Chico - Space-TV Fortress",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Gamurin - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Mon - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Gam Gam - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Doronbo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Benja - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Macchan - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Rokkun - Space-TV Fortress",
+            "access_rules":[
+              "Car"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukki Love - Space-TV Fortress",
+            "access_rules":[
+              "Dancer"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Momongo - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Moepi - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Pumon - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Makiban - Space-TV Fortress",
+            "item_count": 1
+          },
+          {
+            "name": "Upis - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Mondatta - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Gicchom - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Barire - Space-TV Fortress",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "SAL-10 - Space-TV Fortress",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "SAL-11 - Space-TV Fortress",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "SAL-3000 - Space-TV Fortress",
+            "visibility_rules": ["Password"],
+            "access_rules":[
+              "Easy, Shoot", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Space-TV Fortress",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Escaping the Stage Tutorial - Space-TV Fortress",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Bringing the curtain down on Specter TV - Space-TV Fortress",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 670
+          }
+        ]
+      }

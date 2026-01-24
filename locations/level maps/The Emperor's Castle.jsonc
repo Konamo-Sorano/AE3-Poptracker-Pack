@@ -1,0 +1,161 @@
+{
+        "name": "The Emperor's Castle",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|11"
+        ],
+        "sections": [
+          {
+            "name": "Pipo Tobi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Masan - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Mohachi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Mon Ninpo - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Yosi - The Emperor's Castleo",
+            "access_rules":[
+              "Dash"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Fatty Mcfats - The Emperor's Castle",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Tomoku-chan - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Kikimaru - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Uziko - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "GP - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Walter - The Emperor's Castle",
+            "access_rules":[
+              "Ninja"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Monkibeth - The Emperor's Castle",
+            "access_rules":[
+              "Ninja"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Babuzo - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Fishy Feet - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Torin - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Tomi - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Master Pan - The Emperor's Castle",
+            "item_count": 1
+          },
+          {
+            "name": "Monchin Chi - The Emperor's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Masachi - The Emperor's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Golota - The Emperor's Castle",
+            "access_rules":[
+              "Attack, Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kinsuke - The Emperor's Castle",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Miracle Ninja Reminder - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Walking on Tightropes - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone What does the Insignia mean? - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Tiptoe Tutorial - The Emperor's Castle",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 310
+          }
+        ]
+      }

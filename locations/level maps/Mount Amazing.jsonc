@@ -1,0 +1,142 @@
+{
+        "name": "Mount Amazing",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|13, Fly"
+        ],
+        "sections": [
+          {
+            "name": "Ukkichi - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Chomon - Mount Amazing",
+            "access_rules":[
+              "Car"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkido - Mount Amazing",
+            "access_rules":[
+              "Easy, Shoot", "Normal, Attack", "Hard, Attack"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kyamio - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Talupon - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Bokitan - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Tami - Mount Amazing",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Micchino - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Talurin - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Occhimon - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Mikkurin - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Kicchino - Mount Amazing",
+            "access_rules":[
+              "Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kimurin - Mount Amazing",
+            "access_rules":[
+              "Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Sakkano - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Camino - Mount Amazing",
+            "item_count": 1
+          },
+          {
+            "name": "Valuccha - Mount Amazing",
+            "access_rules":[
+              "Easy, Shoot", "Normal, Attack", "Hard, Attack"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pisuke - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Kansuke - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pohta - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Keisuke - Mount Amazing",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Mount Amazing",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Red Cellphone Sky Flyer Reminder - Mount Amazing",
+            "chest_unopened_img": "/images/items/Red phone.png",
+            "chest_opened_img": "/images/items/Red phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 190,
+            "y": 430
+          }
+        ]
+      }

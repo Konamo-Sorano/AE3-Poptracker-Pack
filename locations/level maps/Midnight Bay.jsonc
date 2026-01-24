@@ -1,0 +1,181 @@
+{
+        "name": "Midnight Bay",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|22"
+        ],
+        "sections": [
+          {
+            "name": "Nadamon - Midnight Bay",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Patoya - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gumbo - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pehyan - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Mokito - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Kate - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Samtan - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Pokkine - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Daban - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Keiichi - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "McBreezy - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Shiny Pete - Midnight Bay",
+            "access_rules":[
+              "Shoot"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Landon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Ronson - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gimo - Midnight Bay",
+            "access_rules":[
+              "Shoot"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Hiroshi - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Mibon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Bololon - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Nakabi - Midnight Bay",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Doemos - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Kazuo - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Gimi Gimi - Midnight Bay",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pokkini - Midnight Bay",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Bokino - Midnight Bay",
+            "item_count": 1
+          },
+          {
+            "name": "Jimo - Midnight Bay",
+            "access_rules":[
+              "Swim, Fighter"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Makidon - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Dogy - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Gibdon - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Buligie - Midnight Bay",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Midnight Bay",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Laser Sensors Tutorial - Midnight Bay",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 430
+          }
+        ]
+      }

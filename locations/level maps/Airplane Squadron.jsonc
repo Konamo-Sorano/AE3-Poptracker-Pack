@@ -1,0 +1,152 @@
+{
+        "name": "Airplane Squadron",
+        "chest_unopened_img": "/images/items/Monkey.png",
+        "chest_opened_img": "/images/items/Monkey Caught.png",
+        "access_rules": [
+          //read as: progressive_toggle_2 and has more than 4 consumable
+          "Net, $canAccessChannel|19"
+        ],
+        "sections": [
+          {
+            "name": "Romo - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Temko - Airplane Squadron",
+            "access_rules":[
+              "Dash"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Ukkigawa - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Mokkido - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Pont - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Gamish - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Takmon - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Mukita - Airplane Squadron",
+            "access_rules":[
+              "Dancer"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Prince Bertus - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Chai Bunny - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Tamrai - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Pipotron Blue - Airplane Squadron",
+            "visibility_rules": ["Password"],
+            "access_rules":[
+              "Morph_No_Monkey"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Kemunpa - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Mabaras - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Tamoos - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Kimoto - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Octavian - Airplane Squadron",
+            "item_count": 1
+          },
+          {
+            "name": "Samuel - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Coril - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Bont - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Delly - Airplane Squadron",
+            "access_rules": [
+          "Monkey"
+          ],
+            "item_count": 1
+          },
+          {
+            "name": "Jeloh - Airplane Squadron",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Bongo - Airplane Squadron",
+            "access_rules":[
+              "Easy, Attack", "Normal, Hit", "Hard, Hit"
+            ],
+            "item_count": 1
+          },
+          {
+            "name": "Pipo Camera - Airplane Squadron",
+            "chest_unopened_img": "/images/items/Pipo camera.png",
+            "chest_opened_img": "/images/items/Pipo camera done.png",
+            "visibility_rules": ["Camera setting"],
+            "item_count": 1
+          },
+          {
+            "name": "Blue Cellphone Tank Tutorial - Redux - Airplane Squadron",
+            "chest_unopened_img": "/images/items/Blue phone.png",
+            "chest_opened_img": "/images/items/Blue phone off.png",
+            "visibility_rules":["Cellphone setting"],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "all locations",
+            "x": 310,
+            "y": 190
+          }
+        ]
+      }
