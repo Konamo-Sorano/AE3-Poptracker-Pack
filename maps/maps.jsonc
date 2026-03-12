@@ -92,8 +92,8 @@
   },
   {
     "name": "The Big City",
-    "location_size": 175,
-    "location_border_thickness": 4,
+    "location_size": 25,
+    "location_border_thickness": 2,
     "img": "images/maps/city track.png"
   },
   {
